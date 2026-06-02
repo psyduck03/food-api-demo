@@ -62,5 +62,437 @@
     "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
     "tags": ["Meat", "Dinner", "Fast Food"],
     "rating": 4.7
+  },
+    {
+    "id": "9",
+    "name": "Avocado Toast",
+    "description": "Sourdough toast topped with smashed avocado, chili flakes and poached egg.",
+    "imageUrl": "https://loremflickr.com/600/400/avocado,toast",
+    "tags": ["Vegetarian", "Breakfast", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "10",
+    "name": "Pancake Stack",
+    "description": "Fluffy buttermilk pancakes with maple syrup and fresh berries.",
+    "imageUrl": "https://loremflickr.com/600/400/pancakes",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.6
+  },
+  {
+    "id": "11",
+    "name": "Grilled Salmon",
+    "description": "Pan-seared salmon fillet with lemon butter and asparagus.",
+    "imageUrl": "https://loremflickr.com/600/400/grilled,salmon",
+    "tags": ["Seafood", "Healthy", "Dinner"],
+    "rating": 4.8
+  },
+  {
+    "id": "12",
+    "name": "Shrimp Pasta",
+    "description": "Garlic butter shrimp tossed with linguine and cherry tomatoes.",
+    "imageUrl": "https://loremflickr.com/600/400/shrimp,pasta",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "13",
+    "name": "Greek Salad",
+    "description": "Tomato, cucumber, olives and feta with olive oil and oregano.",
+    "imageUrl": "https://loremflickr.com/600/400/greek,salad",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "14",
+    "name": "Veggie Stir Fry",
+    "description": "Crisp seasonal vegetables wok-tossed in ginger soy sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/vegetable,stirfry",
+    "tags": ["Vegan", "Healthy", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "15",
+    "name": "Chicken Caesar Wrap",
+    "description": "Grilled chicken, romaine and parmesan rolled in a soft tortilla.",
+    "imageUrl": "https://loremflickr.com/600/400/chicken,wrap",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.4
+  },
+  {
+    "id": "16",
+    "name": "Mushroom Risotto",
+    "description": "Creamy arborio rice with wild mushrooms and parmesan.",
+    "imageUrl": "https://loremflickr.com/600/400/mushroom,risotto",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "17",
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a molten center and vanilla ice cream.",
+    "imageUrl": "https://loremflickr.com/600/400/chocolate,cake",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.9
+  },
+  {
+    "id": "18",
+    "name": "Berry Smoothie Bowl",
+    "description": "Blended berries topped with granola, banana and chia seeds.",
+    "imageUrl": "https://loremflickr.com/600/400/smoothie,bowl",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.5
+  },
+  {
+    "id": "19",
+    "name": "Fish & Chips",
+    "description": "Crispy battered cod with golden fries and tartar sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/fish,chips",
+    "tags": ["Seafood", "Fast Food", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "20",
+    "name": "Quinoa Salad",
+    "description": "Protein-packed quinoa with roasted veggies and lemon dressing.",
+    "imageUrl": "https://loremflickr.com/600/400/quinoa,salad",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "21",
+    "name": "BBQ Ribs",
+    "description": "Slow-smoked pork ribs glazed with smoky barbecue sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/bbq,ribs",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "22",
+    "name": "Cheesecake Slice",
+    "description": "Creamy New York cheesecake with a buttery biscuit base.",
+    "imageUrl": "https://loremflickr.com/600/400/cheesecake",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.8
+  },
+    {
+    "id": "23",
+    "name": "Eggs Benedict",
+    "description": "Poached eggs and ham on English muffins with hollandaise sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/eggs,benedict",
+    "tags": ["Breakfast", "Meat"],
+    "rating": 4.5
+  },
+  {
+    "id": "24",
+    "name": "French Omelette",
+    "description": "Silky three-egg omelette with herbs and a touch of butter.",
+    "imageUrl": "https://loremflickr.com/600/400/omelette",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "25",
+    "name": "Tuna Poke Bowl",
+    "description": "Fresh tuna cubes over rice with edamame, mango and soy glaze.",
+    "imageUrl": "https://loremflickr.com/600/400/poke,bowl",
+    "tags": ["Seafood", "Healthy", "Lunch"],
+    "rating": 4.7
+  },
+  {
+    "id": "26",
+    "name": "Lobster Roll",
+    "description": "Buttery lobster meat in a toasted brioche bun with lemon mayo.",
+    "imageUrl": "https://loremflickr.com/600/400/lobster,roll",
+    "tags": ["Seafood", "Lunch"],
+    "rating": 4.8
+  },
+  {
+    "id": "27",
+    "name": "Margarita Flatbread",
+    "description": "Thin crispy flatbread with tomato, basil and melted mozzarella.",
+    "imageUrl": "https://loremflickr.com/600/400/flatbread,pizza",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "28",
+    "name": "Pad Thai",
+    "description": "Stir-fried rice noodles with peanuts, lime, egg and tamarind.",
+    "imageUrl": "https://loremflickr.com/600/400/pad,thai",
+    "tags": ["Dinner", "Vegetarian"],
+    "rating": 4.6
+  },
+  {
+    "id": "29",
+    "name": "Lamb Kofta",
+    "description": "Grilled spiced lamb skewers with yogurt sauce and flatbread.",
+    "imageUrl": "https://loremflickr.com/600/400/lamb,kofta",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "30",
+    "name": "Hot Dog",
+    "description": "Grilled sausage in a soft bun with mustard, ketchup and onions.",
+    "imageUrl": "https://loremflickr.com/600/400/hot,dog",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.0
+  },
+  {
+    "id": "31",
+    "name": "Veggie Burger",
+    "description": "Grilled plant-based patty with lettuce, tomato and vegan mayo.",
+    "imageUrl": "https://loremflickr.com/600/400/veggie,burger",
+    "tags": ["Vegan", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "32",
+    "name": "Tom Yum Soup",
+    "description": "Spicy and sour Thai soup with shrimp, lemongrass and chili.",
+    "imageUrl": "https://loremflickr.com/600/400/tom,yum,soup",
+    "tags": ["Seafood", "Healthy", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "33",
+    "name": "Caprese Skewers",
+    "description": "Cherry tomato, mozzarella and basil bites with balsamic glaze.",
+    "imageUrl": "https://loremflickr.com/600/400/caprese",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "34",
+    "name": "Beef Steak",
+    "description": "Grilled ribeye with garlic butter, served with mashed potatoes.",
+    "imageUrl": "https://loremflickr.com/600/400/steak",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.9
+  },
+  {
+    "id": "35",
+    "name": "Granola & Yogurt",
+    "description": "Crunchy granola layered with Greek yogurt and honey.",
+    "imageUrl": "https://loremflickr.com/600/400/granola,yogurt",
+    "tags": ["Vegetarian", "Breakfast", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "36",
+    "name": "Tiramisu",
+    "description": "Coffee-soaked ladyfingers layered with mascarpone cream.",
+    "imageUrl": "https://loremflickr.com/600/400/tiramisu",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.8
+  },
+  {
+    "id": "37",
+    "name": "Chicken Curry",
+    "description": "Tender chicken simmered in a creamy spiced coconut sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/chicken,curry",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "38",
+    "name": "Lentil Soup",
+    "description": "Hearty red lentil soup with cumin, carrots and a lemon squeeze.",
+    "imageUrl": "https://loremflickr.com/600/400/lentil,soup",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "39",
+    "name": "Sushi Platter",
+    "description": "Assorted nigiri and maki rolls with wasabi and soy sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/sushi",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "40",
+    "name": "Fruit Parfait",
+    "description": "Layered seasonal fruit, yogurt and crunchy granola.",
+    "imageUrl": "https://loremflickr.com/600/400/fruit,parfait",
+    "tags": ["Vegetarian", "Breakfast", "Dessert", "Healthy"],
+    "rating": 4.2
+  },
+  {
+    "id": "41",
+    "name": "Loaded Nachos",
+    "description": "Tortilla chips with melted cheese, jalapeños, salsa and guacamole.",
+    "imageUrl": "https://loremflickr.com/600/400/nachos",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.1
+  },
+  {
+    "id": "42",
+    "name": "Stuffed Bell Peppers",
+    "description": "Bell peppers filled with rice, beans, corn and herbs, oven-baked.",
+    "imageUrl": "https://loremflickr.com/600/400/stuffed,peppers",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+    {
+    "id": "43",
+    "name": "Shakshuka",
+    "description": "Eggs poached in a spiced tomato and pepper sauce.",
+    "imageUrl": "https://loremflickr.com/600/400/shakshuka",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "44",
+    "name": "Club Sandwich",
+    "description": "Triple-decker with chicken, bacon, lettuce, tomato and mayo.",
+    "imageUrl": "https://loremflickr.com/600/400/club,sandwich",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "45",
+    "name": "Ramen Bowl",
+    "description": "Rich pork broth with noodles, soft egg, scallions and nori.",
+    "imageUrl": "https://loremflickr.com/600/400/ramen",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "46",
+    "name": "Caprese Salad",
+    "description": "Sliced tomato and mozzarella with basil and olive oil.",
+    "imageUrl": "https://loremflickr.com/600/400/caprese,salad",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "47",
+    "name": "Garlic Butter Shrimp",
+    "description": "Sautéed shrimp in garlic butter with parsley and lemon.",
+    "imageUrl": "https://loremflickr.com/600/400/garlic,shrimp",
+    "tags": ["Seafood", "Gluten-Free", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "48",
+    "name": "Pulled Pork Sandwich",
+    "description": "Slow-cooked pulled pork with slaw in a toasted bun.",
+    "imageUrl": "https://loremflickr.com/600/400/pulled,pork",
+    "tags": ["Meat", "Fast Food", "Lunch"],
+    "rating": 4.5
+  },
+  {
+    "id": "49",
+    "name": "Vegan Buddha Wrap",
+    "description": "Hummus, falafel crumble, greens and pickles in a whole-wheat wrap.",
+    "imageUrl": "https://loremflickr.com/600/400/vegan,wrap",
+    "tags": ["Vegan", "Lunch", "Healthy"],
+    "rating": 4.2
+  },
+  {
+    "id": "50",
+    "name": "Apple Pie",
+    "description": "Warm spiced apple filling in a flaky golden crust.",
+    "imageUrl": "https://loremflickr.com/600/400/apple,pie",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.6
+  },
+  {
+    "id": "51",
+    "name": "Beef Tacos",
+    "description": "Seasoned ground beef with cheese, lettuce and salsa.",
+    "imageUrl": "https://loremflickr.com/600/400/beef,tacos",
+    "tags": ["Meat", "Fast Food", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "52",
+    "name": "Smoked Salmon Bagel",
+    "description": "Toasted bagel with cream cheese, smoked salmon and capers.",
+    "imageUrl": "https://loremflickr.com/600/400/salmon,bagel",
+    "tags": ["Seafood", "Breakfast"],
+    "rating": 4.5
+  },
+  {
+    "id": "53",
+    "name": "Caprese Pasta",
+    "description": "Fresh pasta with cherry tomatoes, mozzarella pearls and basil.",
+    "imageUrl": "https://loremflickr.com/600/400/tomato,pasta",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "54",
+    "name": "Chicken Wings",
+    "description": "Crispy wings tossed in spicy buffalo sauce with ranch dip.",
+    "imageUrl": "https://loremflickr.com/600/400/chicken,wings",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.5
+  },
+  {
+    "id": "55",
+    "name": "Acai Bowl",
+    "description": "Blended acai topped with banana, granola and coconut flakes.",
+    "imageUrl": "https://loremflickr.com/600/400/acai,bowl",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "56",
+    "name": "Grilled Veggie Skewers",
+    "description": "Charred zucchini, peppers and mushrooms with herb marinade.",
+    "imageUrl": "https://loremflickr.com/600/400/vegetable,skewers",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "57",
+    "name": "Seafood Paella",
+    "description": "Saffron rice with shrimp, mussels and squid, Spanish style.",
+    "imageUrl": "https://loremflickr.com/600/400/paella",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.7
+  },
+  {
+    "id": "58",
+    "name": "Chocolate Brownie",
+    "description": "Fudgy chocolate brownie with a crackly top and walnuts.",
+    "imageUrl": "https://loremflickr.com/600/400/brownie",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.7
+  },
+  {
+    "id": "59",
+    "name": "Turkey Sandwich",
+    "description": "Roast turkey, cheddar, lettuce and cranberry on multigrain.",
+    "imageUrl": "https://loremflickr.com/600/400/turkey,sandwich",
+    "tags": ["Meat", "Lunch", "Healthy"],
+    "rating": 4.1
+  },
+  {
+    "id": "60",
+    "name": "Miso Soup",
+    "description": "Light dashi broth with tofu, seaweed and scallions.",
+    "imageUrl": "https://loremflickr.com/600/400/miso,soup",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.0
+  },
+  {
+    "id": "61",
+    "name": "Pancetta Carbonara",
+    "description": "Spaghetti with egg, pecorino, black pepper and crispy pancetta.",
+    "imageUrl": "https://loremflickr.com/600/400/carbonara",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.8
+  },
+  {
+    "id": "62",
+    "name": "Mango Sticky Rice",
+    "description": "Sweet coconut sticky rice served with fresh ripe mango.",
+    "imageUrl": "https://loremflickr.com/600/400/mango,sticky,rice",
+    "tags": ["Vegan", "Dessert", "Gluten-Free"],
+    "rating": 4.6
   }
 ]
