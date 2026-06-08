@@ -1,0 +1,3432 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita Pizza",
+    "description": "Naples-style pizza with sweet tomato, fresh mozzarella and basil.",
+    "ingredients": "Pizza dough, San Marzano tomatoes, fresh mozzarella, basil, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "2",
+    "name": "Spaghetti Carbonara",
+    "description": "Roman pasta in a silky egg and pecorino sauce, no cream.",
+    "ingredients": "Spaghetti, guanciale, eggs, pecorino romano, black pepper, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Espaguetis_carbonara.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.8
+  },
+  {
+    "id": "3",
+    "name": "Grilled Salmon",
+    "description": "Crisp-skinned salmon fillet with lemon and herbs.",
+    "ingredients": "Salmon fillet, olive oil, lemon, garlic, dill, salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salmon_grilled.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "4",
+    "name": "Avocado Toast",
+    "description": "Sourdough topped with smashed avocado, lemon and chili flakes.",
+    "ingredients": "Sourdough bread, avocado, lemon juice, chili flakes, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Avocado_toast.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.3
+  },
+  {
+    "id": "5",
+    "name": "Classic Cheeseburger",
+    "description": "Beef patty with cheddar, lettuce, tomato and pickles in a toasted bun.",
+    "ingredients": "Beef patty, burger bun, cheddar, lettuce, tomato, pickles, onion, ketchup, mustard",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheeseburger.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.5
+  },
+  {
+    "id": "6",
+    "name": "Caesar Salad",
+    "description": "Romaine with parmesan, croutons and Caesar dressing.",
+    "ingredients": "Romaine lettuce, parmesan, croutons, Caesar dressing, lemon, garlic",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caesar_salad_(1).jpg",
+    "tags": ["Vegetarian", "Lunch", "Healthy"],
+    "rating": 4.2
+  },
+  {
+    "id": "7",
+    "name": "Vegan Buddha Bowl",
+    "description": "Roasted chickpeas, sweet potato and greens with tahini drizzle.",
+    "ingredients": "Chickpeas, sweet potato, kale, brown rice, tahini, lemon, cumin, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buddha_bowl.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.6
+  },
+  {
+    "id": "8",
+    "name": "Beef Tacos",
+    "description": "Seasoned beef in soft tortillas with salsa, onion and cilantro.",
+    "ingredients": "Ground beef, corn tortillas, onion, tomato, cilantro, lime, cumin, paprika",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg",
+    "tags": ["Meat", "Fast Food", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "9",
+    "name": "Pancakes with Berries",
+    "description": "Fluffy buttermilk pancakes with maple syrup and fresh berries.",
+    "ingredients": "Flour, buttermilk, egg, sugar, baking powder, butter, maple syrup, berries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pancakes_(1).jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.6
+  },
+  {
+    "id": "10",
+    "name": "Shrimp Pasta",
+    "description": "Linguine with garlic-butter shrimp and cherry tomatoes.",
+    "ingredients": "Linguine, shrimp, garlic, butter, cherry tomatoes, parsley, chili flakes, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shrimp_pasta.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "11",
+    "name": "Greek Salad",
+    "description": "Tomato, cucumber, olives and feta with olive oil and oregano.",
+    "ingredients": "Tomato, cucumber, red onion, Kalamata olives, feta, olive oil, oregano",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Greek_salad.jpg",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "12",
+    "name": "Chocolate Brownie",
+    "description": "Dense, fudgy brownie with a crackly top.",
+    "ingredients": "Dark chocolate, butter, sugar, eggs, flour, cocoa powder, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chocolate_brownie.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.7
+  },
+  {
+    "id": "13",
+    "name": "Sushi Platter",
+    "description": "Assorted nigiri and maki rolls with soy sauce and wasabi.",
+    "ingredients": "Sushi rice, nori, salmon, tuna, cucumber, avocado, soy sauce, wasabi",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_platter.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "14",
+    "name": "Lentil Soup",
+    "description": "Comforting red lentil soup with cumin and lemon.",
+    "ingredients": "Red lentils, onion, carrot, garlic, cumin, vegetable stock, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lentil_soup.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "15",
+    "name": "Shakshuka",
+    "description": "Eggs poached in a spiced tomato and pepper sauce.",
+    "ingredients": "Eggs, tomato, red pepper, onion, garlic, paprika, cumin, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakshouka.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "16",
+    "name": "BBQ Pork Ribs",
+    "description": "Slow-cooked ribs glazed with smoky barbecue sauce.",
+    "ingredients": "Pork ribs, barbecue sauce, brown sugar, paprika, garlic powder, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbecue_pork_ribs.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6,
+    "containsPork": true
+  },
+  {
+    "id": "17",
+    "name": "Falafel Wrap",
+    "description": "Crispy falafel with hummus, veggies and tahini in flatbread.",
+    "ingredients": "Falafel, flatbread, hummus, tomato, cucumber, lettuce, tahini, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Falafel_wrap.jpg",
+    "tags": ["Vegan", "Lunch", "Fast Food"],
+    "rating": 4.4
+  },
+  {
+    "id": "18",
+    "name": "Mushroom Risotto",
+    "description": "Creamy arborio rice with mushrooms and parmesan.",
+    "ingredients": "Arborio rice, mushrooms, onion, garlic, white wine, vegetable stock, parmesan, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Risotto_ai_funghi.jpg",
+    "tags": ["Vegetarian", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "19",
+    "name": "Fish and Chips",
+    "description": "Beer-battered cod with crispy fries and tartar sauce.",
+    "ingredients": "Cod fillet, flour, beer, potatoes, tartar sauce, lemon, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_and_chips_blackpool.jpg",
+    "tags": ["Seafood", "Fast Food", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "20",
+    "name": "Greek Yogurt Parfait",
+    "description": "Layers of yogurt, granola and fresh fruit with honey.",
+    "ingredients": "Greek yogurt, granola, strawberries, blueberries, honey",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yogurt_parfait.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "21",
+    "name": "Chicken Curry",
+    "description": "Tender chicken in a spiced coconut-tomato sauce.",
+    "ingredients": "Chicken, onion, garlic, ginger, tomato, coconut milk, curry spices, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_curry.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "22",
+    "name": "Caprese Salad",
+    "description": "Tomato and mozzarella with basil and balsamic glaze.",
+    "ingredients": "Tomato, fresh mozzarella, basil, balsamic glaze, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Insalata_caprese.jpg",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "23",
+    "name": "Cheesecake",
+    "description": "Creamy baked cheesecake on a buttery biscuit base.",
+    "ingredients": "Cream cheese, sugar, eggs, biscuit crumbs, butter, vanilla, sour cream",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheesecake.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.7
+  },
+  {
+    "id": "24",
+    "name": "Veggie Stir Fry",
+    "description": "Crisp vegetables wok-tossed in a ginger-soy sauce.",
+    "ingredients": "Broccoli, bell pepper, carrot, snap peas, ginger, garlic, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable_stir_fry.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "25",
+    "name": "Tiramisu",
+    "description": "Coffee-soaked ladyfingers layered with mascarpone cream.",
+    "ingredients": "Ladyfingers, espresso, mascarpone, eggs, sugar, cocoa powder",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiramisu_-_Raffaele_Diomede.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.8
+  },
+  {
+    "id": "26",
+    "name": "Ramen Bowl",
+    "description": "Rich pork broth with noodles, soft egg, scallions and nori.",
+    "ingredients": "Ramen noodles, pork broth, pork belly, egg, scallions, nori, soy sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoyu_ramen,_at_Kasukabe_Station_(2014.05.05).jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7,
+    "containsPork": true
+  },
+  {
+    "id": "27",
+    "name": "Club Sandwich",
+    "description": "Triple-decker with chicken, bacon, lettuce and tomato.",
+    "ingredients": "Bread, chicken, bacon, lettuce, tomato, mayonnaise",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Club-sandwich.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.1
+  },
+  {
+    "id": "28",
+    "name": "Apple Pie",
+    "description": "Warm spiced apple filling in a flaky golden crust.",
+    "ingredients": "Apples, flour, butter, sugar, cinnamon, lemon, egg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_pie.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.5
+  },
+    {
+    "id": "29",
+    "name": "Eggs Benedict",
+    "description": "Poached eggs and ham on toasted English muffins with hollandaise.",
+    "ingredients": "English muffins, eggs, ham, butter, egg yolks, lemon, white vinegar, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eggs_Benedict.jpg",
+    "tags": ["Meat", "Breakfast"],
+    "rating": 4.5
+  },
+  {
+    "id": "30",
+    "name": "French Toast",
+    "description": "Bread soaked in egg and milk, pan-fried and dusted with sugar.",
+    "ingredients": "Bread, eggs, milk, sugar, cinnamon, butter, vanilla, maple syrup",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French_toast.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.4
+  },
+  {
+    "id": "31",
+    "name": "Oatmeal with Fruit",
+    "description": "Warm rolled oats topped with banana, berries and a drizzle of honey.",
+    "ingredients": "Rolled oats, water, banana, mixed berries, honey, cinnamon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oatmeal.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Healthy"],
+    "rating": 4.1
+  },
+  {
+    "id": "32",
+    "name": "Berry Smoothie Bowl",
+    "description": "Blended frozen berries topped with granola, banana and chia seeds.",
+    "ingredients": "Frozen berries, banana, plant milk, granola, chia seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Smoothie_bowl.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.5
+  },
+  {
+    "id": "33",
+    "name": "Beef Lasagna",
+    "description": "Layered pasta with beef ragu, béchamel and parmesan.",
+    "ingredients": "Lasagna sheets, ground beef, tomato, onion, garlic, béchamel, parmesan, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lasagna.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "34",
+    "name": "Chicken Pad Thai",
+    "description": "Stir-fried rice noodles with chicken, peanuts, egg and tamarind.",
+    "ingredients": "Rice noodles, chicken, egg, bean sprouts, peanuts, tamarind, fish sauce, lime, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "35",
+    "name": "Beef Stir Fry",
+    "description": "Tender beef strips wok-tossed with vegetables in soy sauce.",
+    "ingredients": "Beef, broccoli, bell pepper, onion, garlic, ginger, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beef_stir_fry.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "36",
+    "name": "Pork Schnitzel",
+    "description": "Breaded, pan-fried pork cutlet served with lemon.",
+    "ingredients": "Pork cutlet, flour, eggs, breadcrumbs, butter, lemon, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Schnitzel.JPG",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "37",
+    "name": "Roast Chicken",
+    "description": "Whole roasted chicken with herbs and garlic.",
+    "ingredients": "Whole chicken, butter, garlic, rosemary, thyme, lemon, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roast_chicken.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "38",
+    "name": "Lamb Kofta",
+    "description": "Grilled spiced lamb skewers with yogurt sauce.",
+    "ingredients": "Ground lamb, onion, garlic, cumin, coriander, parsley, yogurt, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kofta.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "39",
+    "name": "Fish Tacos",
+    "description": "Crispy fish in tortillas with slaw and lime crema.",
+    "ingredients": "White fish, corn tortillas, cabbage, lime, sour cream, cilantro, flour, paprika",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_tacos.jpg",
+    "tags": ["Seafood", "Fast Food"],
+    "rating": 4.4
+  },
+  {
+    "id": "40",
+    "name": "Tuna Poke Bowl",
+    "description": "Fresh tuna over rice with edamame, avocado and soy glaze.",
+    "ingredients": "Sushi rice, raw tuna, edamame, avocado, cucumber, soy sauce, sesame oil, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poke_bowl.jpg",
+    "tags": ["Seafood", "Healthy", "Lunch"],
+    "rating": 4.7
+  },
+  {
+    "id": "41",
+    "name": "Grilled Shrimp Skewers",
+    "description": "Charred shrimp skewers with garlic and lemon.",
+    "ingredients": "Shrimp, garlic, olive oil, lemon, parsley, paprika, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilled_shrimp.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "42",
+    "name": "Clam Chowder",
+    "description": "Creamy New England soup with clams and potatoes.",
+    "ingredients": "Clams, potatoes, onion, celery, bacon, cream, butter, flour, thyme",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Clam_chowder.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "43",
+    "name": "Seafood Paella",
+    "description": "Saffron rice with shrimp, mussels and squid, Spanish style.",
+    "ingredients": "Rice, shrimp, mussels, squid, saffron, tomato, peas, garlic, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paella.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "44",
+    "name": "Hummus Plate",
+    "description": "Creamy chickpea hummus with olive oil and warm pita.",
+    "ingredients": "Chickpeas, tahini, garlic, lemon, olive oil, cumin, pita bread",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hummus.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "45",
+    "name": "Vegetable Curry",
+    "description": "Mixed vegetables simmered in a spiced coconut sauce.",
+    "ingredients": "Potato, cauliflower, carrot, peas, onion, garlic, coconut milk, curry spices",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable_curry.jpg",
+    "tags": ["Vegan", "Dinner", "Gluten-Free", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "46",
+    "name": "Stuffed Bell Peppers",
+    "description": "Peppers filled with rice, beans and herbs, oven-baked.",
+    "ingredients": "Bell peppers, rice, black beans, corn, tomato, onion, garlic, herbs",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuffed_peppers.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "47",
+    "name": "Quinoa Salad",
+    "description": "Protein-packed quinoa with veggies and lemon dressing.",
+    "ingredients": "Quinoa, cucumber, cherry tomatoes, red onion, parsley, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quinoa_salad.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "48",
+    "name": "Minestrone Soup",
+    "description": "Hearty Italian vegetable soup with beans and pasta.",
+    "ingredients": "Tomato, beans, carrot, celery, onion, zucchini, pasta, garlic, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Minestrone.jpg",
+    "tags": ["Vegetarian", "Healthy", "Lunch"],
+    "rating": 4.1
+  },
+  {
+    "id": "49",
+    "name": "Caprese Sandwich",
+    "description": "Ciabatta with mozzarella, tomato, basil and pesto.",
+    "ingredients": "Ciabatta, mozzarella, tomato, basil, pesto, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caprese_sandwich.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "50",
+    "name": "Grilled Cheese Sandwich",
+    "description": "Golden, buttery toast with melted cheddar.",
+    "ingredients": "Bread, cheddar cheese, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilled_cheese_sandwich.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "51",
+    "name": "Mac and Cheese",
+    "description": "Macaroni baked in a rich, creamy cheese sauce.",
+    "ingredients": "Macaroni, cheddar, milk, butter, flour, breadcrumbs, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Macaroni_and_cheese.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "52",
+    "name": "Buffalo Chicken Wings",
+    "description": "Crispy wings tossed in spicy buffalo sauce with ranch.",
+    "ingredients": "Chicken wings, buffalo sauce, butter, garlic powder, ranch dressing, celery",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buffalo_wings.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.5
+  },
+  {
+    "id": "53",
+    "name": "Loaded Nachos",
+    "description": "Tortilla chips with melted cheese, jalapeños and guacamole.",
+    "ingredients": "Tortilla chips, cheddar, jalapeños, salsa, guacamole, sour cream, beans",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nachos.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.1
+  },
+  {
+    "id": "54",
+    "name": "Hot Dog",
+    "description": "Grilled sausage in a soft bun with mustard and onions.",
+    "ingredients": "Sausage, hot dog bun, mustard, ketchup, onion, relish",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_dog.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.0
+  },
+  {
+    "id": "55",
+    "name": "Panna Cotta",
+    "description": "Silky vanilla cream dessert with berry sauce.",
+    "ingredients": "Cream, sugar, vanilla, gelatin, mixed berries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panna_cotta.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "56",
+    "name": "Crème Brûlée",
+    "description": "Vanilla custard topped with a crisp caramelized sugar crust.",
+    "ingredients": "Cream, egg yolks, sugar, vanilla",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Creme_brulee.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.7
+  },
+  {
+    "id": "57",
+    "name": "Chocolate Chip Cookies",
+    "description": "Chewy cookies loaded with chocolate chips.",
+    "ingredients": "Flour, butter, brown sugar, sugar, eggs, vanilla, chocolate chips, baking soda",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chocolate_chip_cookies.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.6
+  },
+  {
+    "id": "58",
+    "name": "Fresh Fruit Salad",
+    "description": "A refreshing mix of seasonal fruit with mint.",
+    "ingredients": "Strawberries, melon, grapes, kiwi, orange, mint, lemon juice",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruit_salad.jpg",
+    "tags": ["Vegan", "Dessert", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+    {
+    "id": "59",
+    "name": "Beef Pho",
+    "description": "Vietnamese rice noodle soup in an aromatic beef broth.",
+    "ingredients": "Rice noodles, beef, beef broth, ginger, star anise, cinnamon, scallions, basil, lime, bean sprouts",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pho_bo.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "60",
+    "name": "Vegetarian Bibimbap",
+    "description": "Korean rice bowl with sautéed vegetables, egg and gochujang.",
+    "ingredients": "Rice, spinach, carrot, mushrooms, bean sprouts, zucchini, egg, gochujang, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bibimbap.jpg",
+    "tags": ["Vegetarian", "Healthy", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "61",
+    "name": "Butter Chicken",
+    "description": "Indian chicken in a creamy spiced tomato sauce.",
+    "ingredients": "Chicken, butter, tomato, cream, onion, garlic, ginger, garam masala, yogurt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Butter_chicken.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.7
+  },
+  {
+    "id": "62",
+    "name": "Chicken Shawarma",
+    "description": "Marinated chicken with garlic sauce and pickles in flatbread.",
+    "ingredients": "Chicken thighs, flatbread, garlic sauce, pickles, tomato, cumin, paprika, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shawarma.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.5
+  },
+  {
+    "id": "63",
+    "name": "Pork Dumplings",
+    "description": "Steamed dumplings filled with seasoned pork.",
+    "ingredients": "Dumpling wrappers, ground pork, cabbage, ginger, garlic, scallions, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jiaozi.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "64",
+    "name": "Vegetable Spring Rolls",
+    "description": "Crispy rolls filled with cabbage, carrot and glass noodles.",
+    "ingredients": "Spring roll wrappers, cabbage, carrot, glass noodles, mushrooms, soy sauce, ginger",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spring_rolls.jpg",
+    "tags": ["Vegan", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "65",
+    "name": "Tom Yum Soup",
+    "description": "Spicy and sour Thai soup with shrimp and lemongrass.",
+    "ingredients": "Shrimp, lemongrass, galangal, kaffir lime leaves, chili, mushrooms, lime, fish sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_yum_kung.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "66",
+    "name": "Edamame",
+    "description": "Steamed young soybeans tossed with sea salt.",
+    "ingredients": "Edamame pods, sea salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edamame.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.0
+  },
+  {
+    "id": "67",
+    "name": "Gazpacho",
+    "description": "Chilled Spanish tomato and vegetable soup.",
+    "ingredients": "Tomato, cucumber, bell pepper, onion, garlic, olive oil, sherry vinegar, bread",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gazpacho.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.1
+  },
+  {
+    "id": "68",
+    "name": "Tabbouleh",
+    "description": "Fresh parsley and bulgur salad with tomato and lemon.",
+    "ingredients": "Bulgur, parsley, tomato, mint, scallions, lemon, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tabbouleh.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "69",
+    "name": "Moussaka",
+    "description": "Greek baked layers of eggplant, spiced lamb and béchamel.",
+    "ingredients": "Eggplant, ground lamb, tomato, onion, garlic, béchamel, cinnamon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moussaka.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "70",
+    "name": "Ratatouille",
+    "description": "Provençal stew of summer vegetables in tomato.",
+    "ingredients": "Eggplant, zucchini, bell pepper, tomato, onion, garlic, thyme, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratatouille.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "71",
+    "name": "Shrimp Tempura",
+    "description": "Light, crispy battered shrimp with dipping sauce.",
+    "ingredients": "Shrimp, tempura flour, egg, ice water, soy dipping sauce, daikon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tempura.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "72",
+    "name": "Teriyaki Chicken",
+    "description": "Glazed chicken in sweet-savory teriyaki sauce over rice.",
+    "ingredients": "Chicken thighs, soy sauce, mirin, sugar, ginger, garlic, rice, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Teriyaki_chicken.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "73",
+    "name": "Chicken Katsu Curry",
+    "description": "Crispy breaded chicken with Japanese curry sauce and rice.",
+    "ingredients": "Chicken breast, panko, egg, flour, rice, onion, carrot, curry roux",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Katsu_curry.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "74",
+    "name": "Potato Gnocchi",
+    "description": "Soft potato dumplings in a tomato-basil sauce.",
+    "ingredients": "Potato, flour, egg, tomato, basil, garlic, parmesan, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnocchi.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "75",
+    "name": "Eggplant Parmesan",
+    "description": "Baked breaded eggplant with tomato sauce and mozzarella.",
+    "ingredients": "Eggplant, breadcrumbs, egg, tomato sauce, mozzarella, parmesan, basil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eggplant_parmesan.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "76",
+    "name": "Chicken Fajitas",
+    "description": "Sizzling chicken with peppers and onions in tortillas.",
+    "ingredients": "Chicken, bell peppers, onion, tortillas, lime, cumin, paprika, garlic",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fajitas.jpg",
+    "tags": ["Meat", "Dinner", "Fast Food"],
+    "rating": 4.5
+  },
+  {
+    "id": "77",
+    "name": "Beef Burrito",
+    "description": "Flour tortilla stuffed with beef, rice, beans and cheese.",
+    "ingredients": "Tortilla, ground beef, rice, black beans, cheese, salsa, sour cream, lettuce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Burrito.jpg",
+    "tags": ["Meat", "Fast Food", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "78",
+    "name": "Cheese Quesadilla",
+    "description": "Grilled tortilla filled with melted cheese.",
+    "ingredients": "Tortilla, cheddar, mozzarella, butter, salsa",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quesadilla.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.1
+  },
+  {
+    "id": "79",
+    "name": "Banana Bread",
+    "description": "Moist loaf made with ripe bananas.",
+    "ingredients": "Banana, flour, sugar, eggs, butter, baking soda, vanilla, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banana_bread.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "80",
+    "name": "Belgian Waffles",
+    "description": "Crisp waffles served with cream and berries.",
+    "ingredients": "Flour, eggs, milk, butter, sugar, baking powder, vanilla, berries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Belgian_waffle.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.5
+  },
+  {
+    "id": "81",
+    "name": "Bagel with Cream Cheese",
+    "description": "Toasted bagel spread with smooth cream cheese.",
+    "ingredients": "Bagel, cream cheese, chives",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bagel_and_cream_cheese.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.0
+  },
+  {
+    "id": "82",
+    "name": "Breakfast Burrito",
+    "description": "Tortilla wrapped around eggs, sausage, cheese and potato.",
+    "ingredients": "Tortilla, eggs, breakfast sausage, cheese, potato, bell pepper, salsa",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Breakfast_burrito.jpg",
+    "tags": ["Meat", "Breakfast", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "83",
+    "name": "Cobb Salad",
+    "description": "Greens with chicken, bacon, egg, avocado and blue cheese.",
+    "ingredients": "Lettuce, chicken, bacon, egg, avocado, tomato, blue cheese, vinaigrette",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cobb_salad.jpg",
+    "tags": ["Meat", "Lunch", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "84",
+    "name": "Tomato Soup",
+    "description": "Smooth roasted tomato soup with basil.",
+    "ingredients": "Tomato, onion, garlic, vegetable stock, basil, olive oil, cream",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomato_soup.jpg",
+    "tags": ["Vegetarian", "Healthy", "Lunch", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "85",
+    "name": "Pumpkin Soup",
+    "description": "Creamy roasted pumpkin soup with a hint of nutmeg.",
+    "ingredients": "Pumpkin, onion, garlic, vegetable stock, coconut milk, nutmeg, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pumpkin_soup.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "86",
+    "name": "Chocolate Mousse",
+    "description": "Light, airy chocolate mousse.",
+    "ingredients": "Dark chocolate, eggs, sugar, cream, vanilla",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chocolate_mousse.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "87",
+    "name": "Caprese Skewers",
+    "description": "Cherry tomato, mozzarella and basil bites with balsamic.",
+    "ingredients": "Cherry tomatoes, mozzarella pearls, basil, balsamic glaze, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caprese_skewers.jpg",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "88",
+    "name": "Spinach and Feta Quiche",
+    "description": "Savory tart with spinach, feta and a flaky crust.",
+    "ingredients": "Pie crust, eggs, cream, spinach, feta, onion, nutmeg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quiche.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.3
+  },
+    {
+    "id": "89",
+    "name": "Chickpea Salad",
+    "description": "Protein-rich chickpeas with cucumber, tomato and lemon.",
+    "ingredients": "Chickpeas, cucumber, tomato, red onion, parsley, lemon, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chickpea_salad.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "90",
+    "name": "Kale and Quinoa Salad",
+    "description": "Massaged kale with quinoa, cranberries and almonds.",
+    "ingredients": "Kale, quinoa, dried cranberries, almonds, lemon, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kale_quinoa_salad.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "91",
+    "name": "Lentil Dal",
+    "description": "Indian spiced lentils simmered until creamy.",
+    "ingredients": "Red lentils, onion, garlic, ginger, tomato, turmeric, cumin, coriander, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "92",
+    "name": "Tofu Stir Fry",
+    "description": "Crispy tofu and vegetables in a savory soy glaze.",
+    "ingredients": "Tofu, broccoli, bell pepper, carrot, garlic, ginger, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tofu_stir_fry.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "93",
+    "name": "Vegan Chili",
+    "description": "Hearty bean and vegetable chili with smoky spices.",
+    "ingredients": "Kidney beans, black beans, tomato, onion, bell pepper, garlic, cumin, chili powder",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegan_chili.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "94",
+    "name": "Stuffed Mushrooms",
+    "description": "Mushroom caps filled with garlic, herbs and breadcrumbs.",
+    "ingredients": "Mushrooms, breadcrumbs, garlic, parsley, parmesan, olive oil, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuffed_mushrooms.jpg",
+    "tags": ["Vegetarian"],
+    "rating": 4.1
+  },
+  {
+    "id": "95",
+    "name": "Sweet Potato Fries",
+    "description": "Crispy oven-baked sweet potato fries with sea salt.",
+    "ingredients": "Sweet potato, olive oil, paprika, sea salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweet_potato_fries.jpg",
+    "tags": ["Vegan", "Fast Food", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "96",
+    "name": "Avocado Salad",
+    "description": "Avocado, tomato and red onion with lime.",
+    "ingredients": "Avocado, tomato, red onion, lime, cilantro, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Avocado_salad.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "97",
+    "name": "Couscous Salad",
+    "description": "Fluffy couscous with roasted veggies and herbs.",
+    "ingredients": "Couscous, zucchini, bell pepper, cherry tomatoes, mint, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Couscous_salad.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.1
+  },
+  {
+    "id": "98",
+    "name": "Spinach Salad",
+    "description": "Baby spinach with mushrooms, red onion and vinaigrette.",
+    "ingredients": "Baby spinach, mushrooms, red onion, cherry tomatoes, balsamic, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spinach_salad.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.0
+  },
+  {
+    "id": "99",
+    "name": "Tuna Salad",
+    "description": "Flaked tuna with crunchy celery and a light dressing.",
+    "ingredients": "Canned tuna, celery, red onion, mayonnaise, lemon, parsley, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuna_salad.jpg",
+    "tags": ["Seafood", "Healthy", "Lunch", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "100",
+    "name": "Smoked Salmon Salad",
+    "description": "Greens with smoked salmon, capers and dill.",
+    "ingredients": "Mixed greens, smoked salmon, capers, red onion, dill, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Smoked_salmon_salad.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "101",
+    "name": "Chicken Noodle Soup",
+    "description": "Comforting soup with chicken, vegetables and noodles.",
+    "ingredients": "Chicken, egg noodles, carrot, celery, onion, garlic, chicken stock, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_noodle_soup.jpg",
+    "tags": ["Meat", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "102",
+    "name": "Broccoli Cheddar Soup",
+    "description": "Creamy soup with broccoli and sharp cheddar.",
+    "ingredients": "Broccoli, cheddar, onion, carrot, butter, flour, milk, vegetable stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Broccoli_cheddar_soup.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "103",
+    "name": "Butternut Squash Soup",
+    "description": "Velvety roasted squash soup with a touch of nutmeg.",
+    "ingredients": "Butternut squash, onion, garlic, vegetable stock, coconut milk, nutmeg, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Butternut_squash_soup.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "104",
+    "name": "French Onion Soup",
+    "description": "Caramelized onion soup topped with toasted cheese bread.",
+    "ingredients": "Onion, beef stock, butter, baguette, gruyère, thyme, white wine",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French_onion_soup.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "105",
+    "name": "Rice Congee",
+    "description": "Silky rice porridge with ginger and scallions.",
+    "ingredients": "Rice, water, ginger, scallions, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Congee.jpg",
+    "tags": ["Vegan", "Breakfast", "Gluten-Free"],
+    "rating": 4.0
+  },
+  {
+    "id": "106",
+    "name": "Huevos Rancheros",
+    "description": "Fried eggs on tortillas with salsa and beans.",
+    "ingredients": "Eggs, corn tortillas, black beans, tomato salsa, onion, cilantro, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Huevos_rancheros.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.3
+  },
+  {
+    "id": "107",
+    "name": "Full English Breakfast",
+    "description": "Eggs, sausage, bacon, beans, toast and grilled tomato.",
+    "ingredients": "Eggs, sausage, bacon, baked beans, toast, tomato, mushrooms, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Full_English_breakfast.jpg",
+    "tags": ["Meat", "Breakfast"],
+    "rating": 4.4
+  },
+  {
+    "id": "108",
+    "name": "Acai Bowl",
+    "description": "Blended acai topped with banana, granola and coconut.",
+    "ingredients": "Acai puree, banana, plant milk, granola, coconut flakes, berries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Acai_bowl.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "109",
+    "name": "Chia Pudding",
+    "description": "Chia seeds soaked in plant milk, topped with fruit.",
+    "ingredients": "Chia seeds, almond milk, maple syrup, vanilla, berries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chia_pudding.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "110",
+    "name": "Scrambled Eggs",
+    "description": "Soft, creamy scrambled eggs with chives.",
+    "ingredients": "Eggs, butter, milk, chives, salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scrambled_eggs.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "111",
+    "name": "Beef Stew",
+    "description": "Slow-cooked beef with root vegetables in rich gravy.",
+    "ingredients": "Beef, potato, carrot, onion, celery, beef stock, tomato paste, thyme",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beef_stew.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "112",
+    "name": "Pork Belly Bao",
+    "description": "Steamed buns filled with braised pork belly and pickles.",
+    "ingredients": "Bao buns, pork belly, soy sauce, hoisin, pickled cucumber, scallions, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gua_bao.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6,
+    "containsPork": true
+  },
+  {
+    "id": "113",
+    "name": "Grilled Lamb Chops",
+    "description": "Juicy lamb chops with garlic and rosemary.",
+    "ingredients": "Lamb chops, garlic, rosemary, olive oil, lemon, salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamb_chops.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "114",
+    "name": "Seared Duck Breast",
+    "description": "Crisp-skinned duck breast with a cherry glaze.",
+    "ingredients": "Duck breast, cherries, honey, balsamic, thyme, salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duck_breast.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "115",
+    "name": "Crab Cakes",
+    "description": "Golden pan-fried cakes of lump crab meat.",
+    "ingredients": "Crab meat, breadcrumbs, egg, mayonnaise, mustard, lemon, parsley, paprika",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crab_cakes.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "116",
+    "name": "Mussels Marinara",
+    "description": "Mussels steamed in a garlicky tomato sauce.",
+    "ingredients": "Mussels, tomato, garlic, white wine, parsley, chili flakes, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mussels_marinara.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "117",
+    "name": "Lobster Roll",
+    "description": "Buttery lobster in a toasted bun with lemon mayo.",
+    "ingredients": "Lobster meat, brioche bun, mayonnaise, lemon, celery, butter, chives",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lobster_roll.jpg",
+    "tags": ["Seafood", "Lunch"],
+    "rating": 4.7
+  },
+  {
+    "id": "118",
+    "name": "Fried Calamari",
+    "description": "Crispy fried squid rings with lemon and aioli.",
+    "ingredients": "Squid, flour, semolina, lemon, garlic aioli, parsley, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fried_calamari.jpg",
+    "tags": ["Seafood", "Fast Food"],
+    "rating": 4.2
+  },
+    {
+    "id": "119",
+    "name": "Churros",
+    "description": "Fried dough sticks dusted with cinnamon sugar.",
+    "ingredients": "Flour, water, butter, eggs, sugar, cinnamon, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Churros.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "120",
+    "name": "Baklava",
+    "description": "Layered phyllo with nuts and sweet syrup.",
+    "ingredients": "Phyllo dough, walnuts, pistachios, butter, sugar, honey, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baklava.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.6
+  },
+  {
+    "id": "121",
+    "name": "Nutella Crepes",
+    "description": "Thin French crepes filled with chocolate hazelnut spread.",
+    "ingredients": "Flour, eggs, milk, butter, sugar, chocolate hazelnut spread, banana",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crepe.jpg",
+    "tags": ["Vegetarian", "Dessert", "Breakfast"],
+    "rating": 4.5
+  },
+  {
+    "id": "122",
+    "name": "Glazed Donut",
+    "description": "Soft ring donut with a sweet sugar glaze.",
+    "ingredients": "Flour, yeast, milk, eggs, butter, sugar, vanilla glaze",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Glazed_donut.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.3
+  },
+  {
+    "id": "123",
+    "name": "Ice Cream Sundae",
+    "description": "Vanilla ice cream with chocolate sauce and cherry.",
+    "ingredients": "Vanilla ice cream, chocolate sauce, whipped cream, cherry, nuts",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice_cream_sundae.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "124",
+    "name": "Macarons",
+    "description": "Delicate almond meringue cookies with ganache filling.",
+    "ingredients": "Almond flour, egg whites, sugar, powdered sugar, ganache, food coloring",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Macarons.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "125",
+    "name": "Gelato",
+    "description": "Rich Italian-style ice cream.",
+    "ingredients": "Milk, cream, sugar, egg yolks, vanilla",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelato.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "126",
+    "name": "Mango Sticky Rice",
+    "description": "Sweet coconut sticky rice with fresh mango.",
+    "ingredients": "Glutinous rice, coconut milk, sugar, salt, ripe mango, sesame seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mango_sticky_rice.jpg",
+    "tags": ["Vegan", "Dessert", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "127",
+    "name": "Rice Pudding",
+    "description": "Creamy slow-cooked rice with cinnamon.",
+    "ingredients": "Rice, milk, sugar, vanilla, cinnamon, raisins",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice_pudding.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "128",
+    "name": "Pavlova",
+    "description": "Crisp meringue topped with cream and fresh fruit.",
+    "ingredients": "Egg whites, sugar, cornstarch, vinegar, cream, strawberries, kiwi",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavlova.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "129",
+    "name": "Vegetable Samosa",
+    "description": "Crispy pastry filled with spiced potato and peas.",
+    "ingredients": "Flour, potato, peas, onion, cumin, coriander, garam masala, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Samosa.jpg",
+    "tags": ["Vegan", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "130",
+    "name": "Beef Empanada",
+    "description": "Baked pastry pockets filled with seasoned beef.",
+    "ingredients": "Flour, ground beef, onion, egg, olives, cumin, paprika, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Empanadas.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "131",
+    "name": "Arancini",
+    "description": "Fried risotto balls with a melty mozzarella center.",
+    "ingredients": "Risotto rice, mozzarella, breadcrumbs, egg, parmesan, saffron, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arancini.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.4
+  },
+  {
+    "id": "132",
+    "name": "Onion Rings",
+    "description": "Crispy battered onion rings.",
+    "ingredients": "Onion, flour, breadcrumbs, egg, milk, paprika, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Onion_rings.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.1
+  },
+  {
+    "id": "133",
+    "name": "Corn Dog",
+    "description": "Sausage on a stick in crispy cornmeal batter.",
+    "ingredients": "Sausage, cornmeal, flour, egg, milk, sugar, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Corn_dog.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.0
+  },
+  {
+    "id": "134",
+    "name": "Poutine",
+    "description": "Fries topped with cheese curds and gravy.",
+    "ingredients": "Potato fries, cheese curds, gravy, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poutine.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "135",
+    "name": "Takoyaki",
+    "description": "Japanese octopus-filled batter balls with savory sauce.",
+    "ingredients": "Octopus, flour, dashi, egg, scallions, takoyaki sauce, mayonnaise, bonito flakes",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Takoyaki.jpg",
+    "tags": ["Seafood", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "136",
+    "name": "Vegetable Gyoza",
+    "description": "Pan-fried dumplings filled with cabbage and mushrooms.",
+    "ingredients": "Dumpling wrappers, cabbage, mushrooms, carrot, garlic, ginger, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyoza.jpg",
+    "tags": ["Vegan", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "137",
+    "name": "Greek Gyro",
+    "description": "Pita filled with seasoned meat, tomato, onion and tzatziki.",
+    "ingredients": "Pita, pork, tomato, onion, tzatziki, lettuce, oregano, fries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyros.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.5,
+    "containsPork": true
+  },
+  {
+    "id": "138",
+    "name": "Banh Mi",
+    "description": "Vietnamese baguette with pork, pickled veg and cilantro.",
+    "ingredients": "Baguette, pork, pickled carrot, daikon, cucumber, cilantro, mayonnaise, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banh_mi.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.5,
+    "containsPork": true
+  },
+  {
+    "id": "139",
+    "name": "Ceviche",
+    "description": "Fresh fish cured in citrus with onion and cilantro.",
+    "ingredients": "White fish, lime, red onion, cilantro, chili, tomato, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceviche.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "140",
+    "name": "Green Smoothie",
+    "description": "Spinach, banana and pineapple blended smooth.",
+    "ingredients": "Spinach, banana, pineapple, plant milk, chia seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_smoothie.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "141",
+    "name": "Mango Smoothie",
+    "description": "Creamy blended mango with a hint of lime.",
+    "ingredients": "Mango, banana, plant milk, lime, ice",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mango_smoothie.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "142",
+    "name": "Overnight Oats",
+    "description": "Oats soaked overnight with chia, fruit and maple.",
+    "ingredients": "Rolled oats, almond milk, chia seeds, maple syrup, banana, berries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Overnight_oats.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.2
+  },
+  {
+    "id": "143",
+    "name": "Vegetable Frittata",
+    "description": "Baked egg with spinach, tomato and cheese.",
+    "ingredients": "Eggs, spinach, cherry tomatoes, onion, cheese, milk, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frittata.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "144",
+    "name": "Bacon and Egg Sandwich",
+    "description": "Toasted sandwich with crispy bacon and fried egg.",
+    "ingredients": "Bread, bacon, egg, cheese, butter, ketchup",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bacon_and_egg_sandwich.jpg",
+    "tags": ["Meat", "Breakfast", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "145",
+    "name": "Stuffed Grape Leaves",
+    "description": "Vine leaves rolled around herbed rice.",
+    "ingredients": "Grape leaves, rice, onion, dill, mint, parsley, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolma.jpg",
+    "tags": ["Vegan", "Gluten-Free", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "146",
+    "name": "Spanakopita",
+    "description": "Greek phyllo pie with spinach and feta.",
+    "ingredients": "Phyllo dough, spinach, feta, onion, eggs, dill, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanakopita.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "147",
+    "name": "Falafel Bowl",
+    "description": "Falafel over greens with hummus and tahini.",
+    "ingredients": "Falafel, mixed greens, hummus, tomato, cucumber, tahini, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Falafel_bowl.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "148",
+    "name": "Tzatziki with Pita",
+    "description": "Cool yogurt-cucumber dip with warm pita bread.",
+    "ingredients": "Yogurt, cucumber, garlic, dill, lemon, olive oil, pita bread",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tzatziki.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.1
+  },
+    {
+    "id": "149",
+    "name": "Chicken Biryani",
+    "description": "Fragrant basmati rice layered with spiced chicken.",
+    "ingredients": "Basmati rice, chicken, yogurt, onion, garlic, ginger, saffron, biryani spices",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_biryani.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.7
+  },
+  {
+    "id": "150",
+    "name": "Egg Fried Rice",
+    "description": "Wok-fried rice with egg, peas and scallions.",
+    "ingredients": "Rice, egg, peas, carrot, scallions, soy sauce, garlic, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Egg_fried_rice.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "151",
+    "name": "Vegetable Fried Rice",
+    "description": "Stir-fried rice with mixed vegetables.",
+    "ingredients": "Rice, carrot, peas, corn, bell pepper, scallions, soy sauce, garlic, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable_fried_rice.jpg",
+    "tags": ["Vegan", "Dinner"],
+    "rating": 4.1
+  },
+  {
+    "id": "152",
+    "name": "Chicken Nasi Goreng",
+    "description": "Indonesian fried rice with chicken and a fried egg.",
+    "ingredients": "Rice, chicken, egg, shallots, garlic, kecap manis, chili, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nasi_goreng.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "153",
+    "name": "Chicken Chow Mein",
+    "description": "Stir-fried noodles with chicken and vegetables.",
+    "ingredients": "Egg noodles, chicken, cabbage, carrot, bean sprouts, soy sauce, garlic, ginger",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chow_mein.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "154",
+    "name": "Beef Lo Mein",
+    "description": "Soft noodles tossed with beef and vegetables.",
+    "ingredients": "Lo mein noodles, beef, bell pepper, onion, carrot, soy sauce, garlic, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lo_mein.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "155",
+    "name": "Kung Pao Chicken",
+    "description": "Spicy stir-fried chicken with peanuts and chili.",
+    "ingredients": "Chicken, peanuts, dried chili, bell pepper, scallions, soy sauce, garlic, ginger",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kung_Pao_chicken.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "156",
+    "name": "Sweet and Sour Pork",
+    "description": "Crispy pork in a tangy sweet-sour sauce with pineapple.",
+    "ingredients": "Pork, pineapple, bell pepper, onion, cornstarch, vinegar, sugar, ketchup",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweet_and_sour_pork.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "157",
+    "name": "Mapo Tofu",
+    "description": "Silken tofu in a spicy, numbing chili-bean sauce.",
+    "ingredients": "Tofu, doubanjiang, garlic, ginger, scallions, Sichuan peppercorn, soy sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mapo_tofu.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "158",
+    "name": "Korean Fried Chicken",
+    "description": "Double-fried crispy chicken in a sweet-spicy glaze.",
+    "ingredients": "Chicken, cornstarch, gochujang, soy sauce, honey, garlic, ginger, sesame seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_fried_chicken.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.6
+  },
+  {
+    "id": "159",
+    "name": "Beef Bulgogi",
+    "description": "Korean marinated grilled beef, sweet and savory.",
+    "ingredients": "Beef, soy sauce, pear, garlic, ginger, sesame oil, sugar, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bulgogi.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "160",
+    "name": "Japchae",
+    "description": "Korean glass noodles stir-fried with vegetables.",
+    "ingredients": "Sweet potato glass noodles, spinach, carrot, mushrooms, onion, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Japchae.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "161",
+    "name": "Chicken Tikka Masala",
+    "description": "Grilled chicken in a creamy spiced tomato sauce.",
+    "ingredients": "Chicken, yogurt, tomato, cream, onion, garlic, ginger, garam masala",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_tikka_masala.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.7
+  },
+  {
+    "id": "162",
+    "name": "Palak Paneer",
+    "description": "Indian cheese cubes in a creamy spinach sauce.",
+    "ingredients": "Paneer, spinach, onion, garlic, ginger, cream, garam masala, cumin",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Palak_paneer.jpg",
+    "tags": ["Vegetarian", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "163",
+    "name": "Chana Masala",
+    "description": "Chickpeas simmered in a tangy spiced tomato gravy.",
+    "ingredients": "Chickpeas, tomato, onion, garlic, ginger, cumin, coriander, garam masala",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chana_masala.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "164",
+    "name": "Tandoori Chicken",
+    "description": "Yogurt-marinated chicken roasted with bold spices.",
+    "ingredients": "Chicken, yogurt, lemon, garlic, ginger, paprika, cumin, garam masala",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tandoori_chicken.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "165",
+    "name": "Massaman Curry",
+    "description": "Mild Thai curry with beef, potato and peanuts.",
+    "ingredients": "Beef, potato, coconut milk, massaman paste, peanuts, onion, fish sauce, tamarind",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Massaman_curry.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "166",
+    "name": "Thai Green Curry",
+    "description": "Aromatic green curry with chicken and Thai basil.",
+    "ingredients": "Chicken, coconut milk, green curry paste, eggplant, bamboo shoots, basil, fish sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_curry.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "167",
+    "name": "Grilled Octopus",
+    "description": "Charred octopus with olive oil, lemon and paprika.",
+    "ingredients": "Octopus, olive oil, lemon, paprika, garlic, parsley, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilled_octopus.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "168",
+    "name": "Fish Curry",
+    "description": "Tender fish simmered in a coconut curry sauce.",
+    "ingredients": "White fish, coconut milk, tomato, onion, garlic, ginger, curry spices, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_curry.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "169",
+    "name": "Shrimp Scampi",
+    "description": "Garlic-butter shrimp with white wine and parsley.",
+    "ingredients": "Shrimp, garlic, butter, white wine, lemon, parsley, chili flakes",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shrimp_scampi.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "170",
+    "name": "Lobster Bisque",
+    "description": "Velvety, rich soup with lobster and cream.",
+    "ingredients": "Lobster, cream, tomato paste, onion, garlic, brandy, butter, stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lobster_bisque.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "171",
+    "name": "Clam Linguine",
+    "description": "Linguine with clams, garlic, white wine and parsley.",
+    "ingredients": "Linguine, clams, garlic, white wine, olive oil, parsley, chili flakes",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti_alle_vongole.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "172",
+    "name": "Sushi Burrito",
+    "description": "Oversized sushi roll wrapped like a burrito.",
+    "ingredients": "Sushi rice, nori, salmon, avocado, cucumber, carrot, spicy mayo, soy sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_burrito.jpg",
+    "tags": ["Seafood", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "173",
+    "name": "Strawberry Banana Smoothie",
+    "description": "Creamy blend of strawberry and banana.",
+    "ingredients": "Strawberries, banana, plant milk, yogurt, honey, ice",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Strawberry_smoothie.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "174",
+    "name": "Caffe Latte",
+    "description": "Espresso with steamed milk and light foam.",
+    "ingredients": "Espresso, milk",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Latte.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "175",
+    "name": "Iced Matcha Latte",
+    "description": "Whisked matcha green tea over iced milk.",
+    "ingredients": "Matcha powder, milk, ice, sugar syrup",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Matcha_latte.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "176",
+    "name": "Tonkatsu",
+    "description": "Crispy breaded pork cutlet with tonkatsu sauce.",
+    "ingredients": "Pork loin, panko, egg, flour, cabbage, tonkatsu sauce, rice",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonkatsu.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "177",
+    "name": "Garlic Naan",
+    "description": "Soft leavened flatbread brushed with garlic butter.",
+    "ingredients": "Flour, yogurt, yeast, garlic, butter, cilantro, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naan.jpg",
+    "tags": ["Vegetarian"],
+    "rating": 4.3
+  },
+  {
+    "id": "178",
+    "name": "Chana Chaat",
+    "description": "Tangy chickpea salad with onion, tomato and spices.",
+    "ingredients": "Chickpeas, onion, tomato, cilantro, lemon, chaat masala, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaat.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.2
+  },
+    {
+    "id": "179",
+    "name": "Adana Kebabi",
+    "description": "Hand-minced spicy lamb grilled on skewers over charcoal.",
+    "ingredients": "Minced lamb, red pepper flakes, garlic, cumin, salt, parsley, onion, sumac",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adana_kebab.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "180",
+    "name": "Iskender Kebab",
+    "description": "Sliced doner over pita with tomato sauce, yogurt and melted butter.",
+    "ingredients": "Beef doner, pita bread, tomato sauce, yogurt, butter, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Iskender_kebap.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "181",
+    "name": "Izgara Kofte",
+    "description": "Grilled Turkish meatballs seasoned with cumin and onion.",
+    "ingredients": "Ground beef, onion, garlic, cumin, breadcrumbs, parsley, salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kofte.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "182",
+    "name": "Tavuk Sis",
+    "description": "Marinated chicken skewers grilled with peppers.",
+    "ingredients": "Chicken, yogurt, garlic, tomato paste, olive oil, bell pepper, paprika, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tavuk_sis.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "183",
+    "name": "Lahmacun",
+    "description": "Thin flatbread topped with spiced minced meat, herbs and lemon.",
+    "ingredients": "Flour dough, minced beef, tomato, pepper, onion, garlic, parsley, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lahmacun.jpg",
+    "tags": ["Meat", "Fast Food", "Lunch"],
+    "rating": 4.6
+  },
+  {
+    "id": "184",
+    "name": "Kiymali Pide",
+    "description": "Boat-shaped Turkish flatbread filled with seasoned minced meat.",
+    "ingredients": "Pide dough, minced beef, onion, tomato, green pepper, parsley, spices",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pide.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "185",
+    "name": "Menemen",
+    "description": "Turkish-style eggs scrambled with tomato and green peppers.",
+    "ingredients": "Eggs, tomato, green pepper, onion, olive oil, salt, red pepper flakes",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Menemen.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "186",
+    "name": "Sucuklu Yumurta",
+    "description": "Fried eggs with Turkish spiced beef sausage.",
+    "ingredients": "Eggs, sucuk (beef sausage), butter, tomato, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sucuklu_yumurta.jpg",
+    "tags": ["Meat", "Breakfast", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "187",
+    "name": "Manti",
+    "description": "Tiny dumplings filled with spiced beef, topped with garlic yogurt.",
+    "ingredients": "Flour, ground beef, onion, garlic yogurt, butter, red pepper, sumac, mint",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manti.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "188",
+    "name": "Su Boregi",
+    "description": "Layered pastry with white cheese and parsley, baked golden.",
+    "ingredients": "Yufka, white cheese, parsley, eggs, milk, butter, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Su_boregi.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.4
+  },
+  {
+    "id": "189",
+    "name": "Sigara Boregi",
+    "description": "Crispy fried rolls filled with feta and parsley.",
+    "ingredients": "Yufka, feta cheese, parsley, egg, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigara_boregi.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "190",
+    "name": "Mercimek Corbasi",
+    "description": "Velvety red lentil soup served with lemon.",
+    "ingredients": "Red lentils, onion, carrot, potato, butter, cumin, mint, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercimek_corbasi.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "191",
+    "name": "Ezogelin Corbasi",
+    "description": "Spiced red lentil and bulgur soup with mint.",
+    "ingredients": "Red lentils, bulgur, rice, tomato paste, onion, mint, red pepper, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ezogelin_soup.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "192",
+    "name": "Yayla Corbasi",
+    "description": "Creamy yogurt and rice soup with dried mint.",
+    "ingredients": "Yogurt, rice, egg yolk, butter, dried mint, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yayla_corbasi.jpg",
+    "tags": ["Vegetarian", "Healthy", "Lunch", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "193",
+    "name": "Imam Bayildi",
+    "description": "Whole eggplant braised with onion, garlic and tomato in olive oil.",
+    "ingredients": "Eggplant, onion, garlic, tomato, green pepper, parsley, olive oil, sugar",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imam_bayildi.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "194",
+    "name": "Karniyarik",
+    "description": "Stuffed eggplant with spiced minced beef and tomato.",
+    "ingredients": "Eggplant, ground beef, onion, garlic, tomato, green pepper, parsley, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karniyarik.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "195",
+    "name": "Biber Dolmasi",
+    "description": "Bell peppers stuffed with herbed rice, served cold in olive oil.",
+    "ingredients": "Bell peppers, rice, onion, pine nuts, currants, mint, dill, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Biber_dolmasi.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "196",
+    "name": "Yaprak Sarma",
+    "description": "Vine leaves rolled around herbed rice in olive oil.",
+    "ingredients": "Grape leaves, rice, onion, pine nuts, currants, dill, mint, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yaprak_sarma.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "197",
+    "name": "Kuru Fasulye",
+    "description": "White beans simmered in a rich tomato and pepper sauce.",
+    "ingredients": "White beans, onion, tomato paste, red pepper, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuru_fasulye.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "198",
+    "name": "Tavuklu Pilav",
+    "description": "Buttery rice pilaf topped with shredded chicken and chickpeas.",
+    "ingredients": "Rice, chicken, chickpeas, butter, onion, chicken stock, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tavuklu_pilav.jpg",
+    "tags": ["Meat", "Lunch", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "199",
+    "name": "Cig Kofte",
+    "description": "Spiced bulgur balls with pepper paste, herbs and lemon.",
+    "ingredients": "Fine bulgur, tomato paste, red pepper paste, onion, garlic, parsley, lemon, spices",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cig_kofte.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "200",
+    "name": "Peynirli Gozleme",
+    "description": "Thin hand-rolled flatbread filled with cheese and parsley.",
+    "ingredients": "Flour dough, white cheese, parsley, butter, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gozleme.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "201",
+    "name": "Coban Salatasi",
+    "description": "Chopped tomato, cucumber, pepper and onion with olive oil.",
+    "ingredients": "Tomato, cucumber, green pepper, onion, parsley, lemon, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coban_salatasi.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.1
+  },
+  {
+    "id": "202",
+    "name": "Haydari",
+    "description": "Thick strained yogurt dip with garlic and herbs.",
+    "ingredients": "Strained yogurt, garlic, dill, mint, walnuts, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haydari.jpg",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "203",
+    "name": "Kunefe",
+    "description": "Shredded pastry filled with cheese, soaked in sweet syrup.",
+    "ingredients": "Kadayif pastry, unsalted cheese, butter, sugar syrup, pistachios",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunefe.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.7
+  },
+  {
+    "id": "204",
+    "name": "Sutlac",
+    "description": "Baked Turkish rice pudding with a golden top.",
+    "ingredients": "Rice, milk, sugar, rice flour, vanilla, cinnamon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sutlac.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "205",
+    "name": "Sekerpare",
+    "description": "Soft semolina cookies soaked in lemon syrup.",
+    "ingredients": "Semolina, flour, butter, eggs, sugar, lemon, baking powder",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sekerpare.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.3
+  },
+  {
+    "id": "206",
+    "name": "Kisir",
+    "description": "Fine bulgur salad with tomato paste, herbs and lemon.",
+    "ingredients": "Fine bulgur, tomato paste, pepper paste, scallions, parsley, mint, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kisir.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "207",
+    "name": "Tavuk Doner",
+    "description": "Marinated chicken roasted on a vertical spit, served in bread.",
+    "ingredients": "Chicken, bread, tomato, onion, lettuce, yogurt sauce, spices",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Doner_kebab.jpg",
+    "tags": ["Meat", "Fast Food", "Lunch"],
+    "rating": 4.5
+  },
+  {
+    "id": "208",
+    "name": "Kumpir",
+    "description": "Loaded baked potato mashed with butter, cheese and toppings.",
+    "ingredients": "Baked potato, butter, kasar cheese, corn, olives, pickles, sausage, mayonnaise",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumpir.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.2
+  },
+    {
+    "id": "209",
+    "name": "Pizza Margherita",
+    "description": "Naples classic with tomato, mozzarella and basil.",
+    "ingredients": "Pizza dough, tomato, mozzarella, basil, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_Margherita.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.7
+  },
+  {
+    "id": "210",
+    "name": "Pizza Marinara",
+    "description": "Simple tomato pizza with garlic and oregano, no cheese.",
+    "ingredients": "Pizza dough, tomato, garlic, oregano, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_marinara.jpg",
+    "tags": ["Vegan", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "211",
+    "name": "Pizza Quattro Formaggi",
+    "description": "Four-cheese pizza, rich and creamy.",
+    "ingredients": "Pizza dough, mozzarella, gorgonzola, fontina, parmesan",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quattro_formaggi.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "212",
+    "name": "Pizza Quattro Stagioni",
+    "description": "Four sections of ham, mushroom, artichoke and olives.",
+    "ingredients": "Pizza dough, tomato, mozzarella, ham, mushrooms, artichokes, olives",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quattro_stagioni.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "213",
+    "name": "Pizza Diavola",
+    "description": "Spicy pizza topped with hot salami.",
+    "ingredients": "Pizza dough, tomato, mozzarella, spicy salami, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_diavola.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5,
+    "containsPork": true
+  },
+  {
+    "id": "214",
+    "name": "Pizza Capricciosa",
+    "description": "Loaded pizza with ham, mushrooms, artichokes and egg.",
+    "ingredients": "Pizza dough, tomato, mozzarella, ham, mushrooms, artichokes, egg, olives",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_capricciosa.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "215",
+    "name": "Pizza Prosciutto e Funghi",
+    "description": "Pizza with cooked ham and mushrooms.",
+    "ingredients": "Pizza dough, tomato, mozzarella, ham, mushrooms",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prosciutto_e_funghi.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "216",
+    "name": "Pizza Ortolana",
+    "description": "Garden pizza with grilled seasonal vegetables.",
+    "ingredients": "Pizza dough, tomato, mozzarella, zucchini, eggplant, bell pepper, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_vegetariana.jpg",
+    "tags": ["Vegetarian", "Dinner", "Healthy"],
+    "rating": 4.3
+  },
+  {
+    "id": "217",
+    "name": "Pizza Bufala",
+    "description": "Pizza topped with creamy buffalo mozzarella and basil.",
+    "ingredients": "Pizza dough, tomato, buffalo mozzarella, basil, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_bufala.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "218",
+    "name": "Pizza Frutti di Mare",
+    "description": "Seafood pizza with mussels, shrimp and squid.",
+    "ingredients": "Pizza dough, tomato, mussels, shrimp, squid, garlic, parsley, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_frutti_di_mare.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "219",
+    "name": "Pizza Tonno e Cipolla",
+    "description": "Pizza with tuna and red onion.",
+    "ingredients": "Pizza dough, tomato, mozzarella, tuna, red onion, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_tonno.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "220",
+    "name": "Pizza Napoletana",
+    "description": "Pizza with anchovies, capers and oregano.",
+    "ingredients": "Pizza dough, tomato, mozzarella, anchovies, capers, oregano",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_napoletana.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "221",
+    "name": "Calzone",
+    "description": "Folded pizza stuffed with ricotta, ham and mozzarella.",
+    "ingredients": "Pizza dough, ricotta, mozzarella, ham, tomato, parmesan",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Calzone.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "222",
+    "name": "Pizza Boscaiola",
+    "description": "Woodsman pizza with sausage and mushrooms.",
+    "ingredients": "Pizza dough, mozzarella, Italian sausage, mushrooms, cream",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_boscaiola.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "223",
+    "name": "Spaghetti Carbonara",
+    "description": "Roman pasta with egg, pecorino and crispy guanciale.",
+    "ingredients": "Spaghetti, guanciale, eggs, pecorino romano, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Espaguetis_carbonara.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.8,
+    "containsPork": true
+  },
+  {
+    "id": "224",
+    "name": "Bucatini all'Amatriciana",
+    "description": "Bucatini in a tomato sauce with guanciale and pecorino.",
+    "ingredients": "Bucatini, guanciale, tomato, pecorino, chili, white wine",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bucatini_all'amatriciana.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6,
+    "containsPork": true
+  },
+  {
+    "id": "225",
+    "name": "Cacio e Pepe",
+    "description": "Roman pasta with pecorino and black pepper.",
+    "ingredients": "Tonnarelli pasta, pecorino romano, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cacio_e_pepe.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "226",
+    "name": "Pasta al Pesto",
+    "description": "Pasta tossed in fresh basil pesto.",
+    "ingredients": "Pasta, basil, pine nuts, parmesan, garlic, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasta_al_pesto.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "227",
+    "name": "Penne all'Arrabbiata",
+    "description": "Penne in a spicy garlic-tomato sauce.",
+    "ingredients": "Penne, tomato, garlic, chili, olive oil, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Penne_all'arrabbiata.jpg",
+    "tags": ["Vegan", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "228",
+    "name": "Spaghetti alle Vongole",
+    "description": "Spaghetti with clams, garlic and white wine.",
+    "ingredients": "Spaghetti, clams, garlic, white wine, parsley, chili, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti_alle_vongole.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "229",
+    "name": "Spaghetti Puttanesca",
+    "description": "Bold pasta with olives, capers and anchovies.",
+    "ingredients": "Spaghetti, tomato, olives, capers, anchovies, garlic, chili, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Puttanesca.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "230",
+    "name": "Ravioli Ricotta e Spinaci",
+    "description": "Pasta pillows filled with ricotta and spinach.",
+    "ingredients": "Pasta, ricotta, spinach, parmesan, nutmeg, butter, sage",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravioli.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "231",
+    "name": "Tortellini in Brodo",
+    "description": "Meat-filled tortellini served in a clear broth.",
+    "ingredients": "Tortellini, pork, prosciutto, parmesan, egg, beef broth, nutmeg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tortellini_in_brodo.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "232",
+    "name": "Gnocchi alla Sorrentina",
+    "description": "Baked potato gnocchi in tomato sauce with mozzarella.",
+    "ingredients": "Potato gnocchi, tomato, mozzarella, basil, parmesan, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnocchi_alla_sorrentina.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "233",
+    "name": "Risotto alla Milanese",
+    "description": "Creamy saffron risotto.",
+    "ingredients": "Arborio rice, saffron, onion, white wine, butter, parmesan, stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Risotto_alla_milanese.jpg",
+    "tags": ["Vegetarian", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "234",
+    "name": "Risotto ai Frutti di Mare",
+    "description": "Seafood risotto with shrimp, mussels and squid.",
+    "ingredients": "Arborio rice, shrimp, mussels, squid, garlic, white wine, tomato, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Risotto_ai_frutti_di_mare.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "235",
+    "name": "Osso Buco",
+    "description": "Braised veal shanks in wine and vegetables.",
+    "ingredients": "Veal shanks, onion, carrot, celery, white wine, tomato, stock, gremolata",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ossobuco.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "236",
+    "name": "Chicken Parmigiana",
+    "description": "Breaded chicken baked with tomato sauce and mozzarella.",
+    "ingredients": "Chicken breast, breadcrumbs, egg, tomato sauce, mozzarella, parmesan, basil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_parmigiana.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "237",
+    "name": "Panino Caprese",
+    "description": "Ciabatta with mozzarella, tomato and basil.",
+    "ingredients": "Ciabatta, mozzarella, tomato, basil, olive oil, balsamic",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panino_caprese.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "238",
+    "name": "Panino al Prosciutto",
+    "description": "Crusty roll filled with prosciutto and cheese.",
+    "ingredients": "Ciabatta, prosciutto, mozzarella, arugula, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panino_prosciutto.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "239",
+    "name": "Piadina",
+    "description": "Thin flatbread folded with cheese and greens.",
+    "ingredients": "Flatbread, squacquerone cheese, arugula, tomato, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piadina.jpg",
+    "tags": ["Vegetarian", "Lunch", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "240",
+    "name": "Tuna Tramezzino",
+    "description": "Soft triangular sandwich with tuna and mayo.",
+    "ingredients": "Soft bread, tuna, mayonnaise, capers, lettuce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tramezzino.jpg",
+    "tags": ["Seafood", "Lunch", "Fast Food"],
+    "rating": 4.1
+  },
+  {
+    "id": "241",
+    "name": "Focaccia",
+    "description": "Soft olive oil bread with rosemary and sea salt.",
+    "ingredients": "Flour, yeast, olive oil, rosemary, sea salt, water",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Focaccia.jpg",
+    "tags": ["Vegan", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "242",
+    "name": "Panzanella",
+    "description": "Tuscan bread salad with tomato, cucumber and basil.",
+    "ingredients": "Bread, tomato, cucumber, red onion, basil, olive oil, vinegar",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panzanella.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "243",
+    "name": "Bruschetta",
+    "description": "Toasted bread topped with tomato, garlic and basil.",
+    "ingredients": "Bread, tomato, garlic, basil, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruschetta.jpg",
+    "tags": ["Vegan", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "244",
+    "name": "Caponata",
+    "description": "Sicilian sweet-and-sour eggplant stew.",
+    "ingredients": "Eggplant, celery, tomato, onion, olives, capers, vinegar, sugar, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caponata.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "245",
+    "name": "Ribollita",
+    "description": "Hearty Tuscan bread and vegetable soup.",
+    "ingredients": "Cannellini beans, kale, bread, carrot, celery, onion, tomato, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribollita.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "246",
+    "name": "Pasta e Fagioli",
+    "description": "Comforting pasta and bean soup.",
+    "ingredients": "Pasta, borlotti beans, tomato, onion, garlic, carrot, celery, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasta_e_fagioli.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "247",
+    "name": "Cannoli",
+    "description": "Crisp pastry tubes filled with sweet ricotta cream.",
+    "ingredients": "Pastry shell, ricotta, sugar, chocolate chips, candied orange, pistachios",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannoli.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.5
+  },
+  {
+    "id": "248",
+    "name": "Affogato",
+    "description": "Vanilla gelato 'drowned' in hot espresso.",
+    "ingredients": "Vanilla gelato, espresso",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Affogato.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "249",
+    "name": "Cornetto",
+    "description": "Italian breakfast pastry, softer and sweeter than a croissant.",
+    "ingredients": "Flour, butter, sugar, eggs, yeast, vanilla, apricot jam",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.3
+  },
+  {
+    "id": "250",
+    "name": "Maritozzo",
+    "description": "Sweet Roman bun split and filled with whipped cream.",
+    "ingredients": "Flour, butter, sugar, eggs, yeast, whipped cream",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maritozzo.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.3
+  },
+    {
+    "id": "251",
+    "name": "Wiener Schnitzel",
+    "description": "Thin breaded veal cutlet, pan-fried golden, with lemon.",
+    "ingredients": "Veal cutlet, flour, eggs, breadcrumbs, butter, lemon, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiener_Schnitzel.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "252",
+    "name": "Bratwurst",
+    "description": "Grilled German sausage served with mustard.",
+    "ingredients": "Pork sausage, mustard, bread roll, onion",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bratwurst.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "253",
+    "name": "Currywurst",
+    "description": "Sliced sausage with curry ketchup and fries.",
+    "ingredients": "Pork sausage, curry ketchup, curry powder, fries",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Currywurst.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "254",
+    "name": "Sauerbraten",
+    "description": "German pot roast of marinated beef in a tangy gravy.",
+    "ingredients": "Beef, red wine vinegar, onion, carrot, cloves, bay leaf, gingerbread, gravy",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sauerbraten.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "255",
+    "name": "Rinderrouladen",
+    "description": "Beef rolls filled with onion and pickle in rich gravy.",
+    "ingredients": "Beef, bacon, onion, pickle, mustard, beef stock, carrot, gravy",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rouladen.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "256",
+    "name": "Kasespatzle",
+    "description": "Soft egg noodles baked with melted cheese and onions.",
+    "ingredients": "Flour, eggs, cheese, onion, butter, nutmeg, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasespatzle.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "257",
+    "name": "German Potato Salad",
+    "description": "Warm potato salad with vinegar, onion and herbs.",
+    "ingredients": "Potato, onion, vegetable broth, vinegar, mustard, oil, chives",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kartoffelsalat.jpg",
+    "tags": ["Vegan", "Lunch", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "258",
+    "name": "Bratkartoffeln",
+    "description": "Crispy German-style pan-fried potatoes with onion.",
+    "ingredients": "Potato, onion, butter, oil, salt, caraway, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bratkartoffeln.jpg",
+    "tags": ["Vegetarian", "Lunch", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "259",
+    "name": "Pretzel",
+    "description": "Soft baked pretzel with coarse salt.",
+    "ingredients": "Flour, yeast, butter, baking soda, coarse salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brezel.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "260",
+    "name": "Frikadellen",
+    "description": "Pan-fried German beef patties with onion.",
+    "ingredients": "Ground beef, onion, egg, breadcrumbs, mustard, parsley, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frikadellen.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "261",
+    "name": "Konigsberger Klopse",
+    "description": "Veal meatballs in a creamy caper sauce.",
+    "ingredients": "Ground veal, onion, egg, breadcrumbs, capers, cream, lemon, stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Koenigsberger_Klopse.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "262",
+    "name": "Gulasch",
+    "description": "Hearty beef stew with paprika and onions.",
+    "ingredients": "Beef, onion, paprika, tomato paste, bell pepper, garlic, beef stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gulasch.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "263",
+    "name": "Spargel mit Hollandaise",
+    "description": "White asparagus with buttery hollandaise sauce.",
+    "ingredients": "White asparagus, butter, egg yolks, lemon, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spargel.jpg",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "264",
+    "name": "Rotkohl",
+    "description": "Braised red cabbage with apple and spices.",
+    "ingredients": "Red cabbage, apple, onion, vinegar, cloves, bay leaf, sugar",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotkohl.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.0
+  },
+  {
+    "id": "265",
+    "name": "Apfelstrudel",
+    "description": "Flaky pastry filled with spiced apples and raisins.",
+    "ingredients": "Phyllo pastry, apples, raisins, cinnamon, sugar, breadcrumbs, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Apfelstrudel.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "266",
+    "name": "Schwarzwalder Kirschtorte",
+    "description": "Black Forest cake with chocolate, cream and cherries.",
+    "ingredients": "Chocolate sponge, cream, cherries, kirsch, chocolate shavings, sugar",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Schwarzwaelder_Kirschtorte.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.5
+  },
+  {
+    "id": "267",
+    "name": "Berliner",
+    "description": "Jam-filled German doughnut dusted with sugar.",
+    "ingredients": "Flour, yeast, milk, eggs, butter, sugar, jam",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Berliner_Pfannkuchen.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.2
+  },
+  {
+    "id": "268",
+    "name": "German Breakfast Plate",
+    "description": "Bread with cheese, boiled egg, butter and jam.",
+    "ingredients": "Bread roll, cheese, boiled egg, butter, jam, cucumber, tomato",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/German_breakfast.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.1
+  },
+  {
+    "id": "269",
+    "name": "Maultaschen",
+    "description": "Swabian filled pasta pockets with meat and spinach.",
+    "ingredients": "Pasta dough, pork, spinach, onion, breadcrumbs, egg, nutmeg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maultaschen.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "270",
+    "name": "Croissant",
+    "description": "Buttery, flaky French breakfast pastry.",
+    "ingredients": "Flour, butter, yeast, milk, sugar, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Croissant.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "271",
+    "name": "Quiche Lorraine",
+    "description": "Savory tart with bacon and a creamy egg custard.",
+    "ingredients": "Pie crust, eggs, cream, bacon, onion, nutmeg, cheese",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quiche_Lorraine.jpg",
+    "tags": ["Meat", "Breakfast"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "272",
+    "name": "Coq au Vin",
+    "description": "Chicken braised in red wine with mushrooms and onions.",
+    "ingredients": "Chicken, red wine, mushrooms, pearl onions, carrot, garlic, thyme",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coq_au_vin.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "273",
+    "name": "Beef Bourguignon",
+    "description": "Burgundy beef stew with red wine and vegetables.",
+    "ingredients": "Beef, bacon, red wine, carrot, onion, mushrooms, garlic, thyme",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boeuf_bourguignon.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6,
+    "containsPork": true
+  },
+  {
+    "id": "274",
+    "name": "Salade Nicoise",
+    "description": "French salad with tuna, egg, green beans and olives.",
+    "ingredients": "Tuna, egg, green beans, potato, tomato, olives, lettuce, vinaigrette",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salade_nicoise.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "275",
+    "name": "Croque Monsieur",
+    "description": "Toasted ham and cheese sandwich with bechamel.",
+    "ingredients": "Bread, ham, gruyere, bechamel, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Croque-monsieur.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.3,
+    "containsPork": true
+  },
+  {
+    "id": "276",
+    "name": "Bouillabaisse",
+    "description": "Provencal fish stew with saffron and herbs.",
+    "ingredients": "Mixed fish, shrimp, mussels, tomato, fennel, saffron, garlic, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouillabaisse.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "277",
+    "name": "Profiteroles",
+    "description": "Choux puffs filled with cream and topped with chocolate.",
+    "ingredients": "Flour, butter, eggs, cream, chocolate, sugar",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Profiteroles.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "278",
+    "name": "Tarte Tatin",
+    "description": "Upside-down caramelized apple tart.",
+    "ingredients": "Apples, sugar, butter, puff pastry, cinnamon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarte_Tatin.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "279",
+    "name": "Paella Valenciana",
+    "description": "Spanish saffron rice with chicken and vegetables.",
+    "ingredients": "Rice, chicken, green beans, butter beans, tomato, saffron, paprika, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paella_valenciana.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "280",
+    "name": "Patatas Bravas",
+    "description": "Crispy potatoes with spicy tomato sauce.",
+    "ingredients": "Potato, tomato, paprika, garlic, chili, olive oil, vinegar",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Patatas_bravas.jpg",
+    "tags": ["Vegan", "Fast Food", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "281",
+    "name": "Tortilla Espanola",
+    "description": "Spanish potato and onion omelette.",
+    "ingredients": "Potato, eggs, onion, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tortilla_de_patatas.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "282",
+    "name": "Pisto",
+    "description": "Spanish stewed vegetables in tomato, like ratatouille.",
+    "ingredients": "Zucchini, bell pepper, onion, tomato, eggplant, garlic, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pisto.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "283",
+    "name": "Pan con Tomate",
+    "description": "Toasted bread rubbed with tomato and olive oil.",
+    "ingredients": "Bread, tomato, garlic, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pan_con_tomate.jpg",
+    "tags": ["Vegan", "Breakfast"],
+    "rating": 4.1
+  },
+  {
+    "id": "284",
+    "name": "Gambas al Ajillo",
+    "description": "Sizzling garlic shrimp in olive oil with chili.",
+    "ingredients": "Shrimp, garlic, chili, olive oil, parsley, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gambas_al_ajillo.jpg",
+    "tags": ["Seafood", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "285",
+    "name": "Chicken Souvlaki",
+    "description": "Greek grilled chicken skewers with lemon and oregano.",
+    "ingredients": "Chicken, olive oil, lemon, garlic, oregano, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Souvlaki.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "286",
+    "name": "Fasolada",
+    "description": "Greek white bean soup with vegetables.",
+    "ingredients": "White beans, carrot, celery, onion, tomato, olive oil, bay leaf",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fasolada.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "287",
+    "name": "Saganaki",
+    "description": "Pan-fried Greek cheese with lemon.",
+    "ingredients": "Graviera cheese, flour, olive oil, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saganaki.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "288",
+    "name": "Shepherd's Pie",
+    "description": "Minced lamb topped with mashed potato, baked golden.",
+    "ingredients": "Ground lamb, onion, carrot, peas, tomato paste, mashed potato, stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shepherd's_pie.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "289",
+    "name": "Bangers and Mash",
+    "description": "Sausages with mashed potato and onion gravy.",
+    "ingredients": "Pork sausages, mashed potato, onion, beef gravy, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangers_and_mash.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.2,
+    "containsPork": true
+  },
+  {
+    "id": "290",
+    "name": "Scones",
+    "description": "British baked scones served with jam and clotted cream.",
+    "ingredients": "Flour, butter, sugar, milk, baking powder, jam, clotted cream",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scones.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Dessert"],
+    "rating": 4.2
+  },
+    {
+    "id": "291",
+    "name": "Spicy Tuna Roll",
+    "description": "Sushi roll with spicy tuna and cucumber.",
+    "ingredients": "Sushi rice, nori, tuna, sriracha, mayonnaise, cucumber, sesame seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spicy_tuna_roll.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "292",
+    "name": "California Roll",
+    "description": "Sushi roll with crab, avocado and cucumber.",
+    "ingredients": "Sushi rice, nori, crab, avocado, cucumber, sesame seeds, mayonnaise",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/California_roll.jpg",
+    "tags": ["Seafood", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "293",
+    "name": "Chicken Yakitori",
+    "description": "Japanese grilled chicken skewers in tare sauce.",
+    "ingredients": "Chicken, soy sauce, mirin, sake, sugar, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yakitori.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "294",
+    "name": "Chicken Miso Ramen",
+    "description": "Ramen in a savory miso broth with chicken and egg.",
+    "ingredients": "Ramen noodles, chicken, miso, chicken broth, egg, scallions, corn, nori",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miso_ramen.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "295",
+    "name": "Udon Noodle Soup",
+    "description": "Thick wheat noodles in a light dashi broth.",
+    "ingredients": "Udon noodles, vegetable dashi, scallions, mushrooms, soy sauce, tofu",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Udon.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "296",
+    "name": "Kimchi Fried Rice",
+    "description": "Stir-fried rice with kimchi and vegetables, topped with egg.",
+    "ingredients": "Rice, kimchi, egg, scallions, sesame oil, soy sauce, gochujang",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimchi_fried_rice.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "297",
+    "name": "Tteokbokki",
+    "description": "Chewy Korean rice cakes in a sweet-spicy sauce.",
+    "ingredients": "Rice cakes, gochujang, gochugaru, fish cake, scallions, sugar, garlic",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tteokbokki.jpg",
+    "tags": ["Vegetarian", "Fast Food", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "298",
+    "name": "Thai Red Curry",
+    "description": "Chicken in a spicy coconut red curry.",
+    "ingredients": "Chicken, coconut milk, red curry paste, bamboo shoots, bell pepper, basil, fish sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_curry.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "299",
+    "name": "Tom Kha Gai",
+    "description": "Thai coconut chicken soup with galangal and lime.",
+    "ingredients": "Chicken, coconut milk, galangal, lemongrass, lime, mushrooms, fish sauce, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_kha_gai.jpg",
+    "tags": ["Meat", "Healthy", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "300",
+    "name": "Vietnamese Summer Rolls",
+    "description": "Fresh rice paper rolls with herbs and vegetables.",
+    "ingredients": "Rice paper, vermicelli, carrot, cucumber, lettuce, mint, peanut dipping sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Summer_rolls.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "301",
+    "name": "Chicken Satay",
+    "description": "Grilled chicken skewers with peanut sauce.",
+    "ingredients": "Chicken, lemongrass, turmeric, coconut milk, peanut sauce, soy sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Satay.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.4
+  },
+  {
+    "id": "302",
+    "name": "Beef Rendang",
+    "description": "Indonesian slow-cooked beef in coconut and spices.",
+    "ingredients": "Beef, coconut milk, lemongrass, galangal, garlic, chili, turmeric, kaffir lime",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rendang.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.6
+  },
+  {
+    "id": "303",
+    "name": "Aloo Gobi",
+    "description": "Indian potato and cauliflower with spices.",
+    "ingredients": "Potato, cauliflower, onion, tomato, ginger, turmeric, cumin, coriander",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aloo_gobi.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "304",
+    "name": "Paneer Tikka",
+    "description": "Marinated grilled Indian cheese with peppers.",
+    "ingredients": "Paneer, yogurt, bell pepper, onion, garam masala, turmeric, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paneer_tikka.jpg",
+    "tags": ["Vegetarian", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "305",
+    "name": "Vegetable Biryani",
+    "description": "Fragrant basmati rice with spiced vegetables.",
+    "ingredients": "Basmati rice, carrot, peas, beans, onion, yogurt, saffron, biryani spices",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable_biryani.jpg",
+    "tags": ["Vegan", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "306",
+    "name": "Manakish Zaatar",
+    "description": "Levantine flatbread topped with zaatar and olive oil.",
+    "ingredients": "Flatbread dough, zaatar, olive oil, sesame seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manakish.jpg",
+    "tags": ["Vegan", "Breakfast"],
+    "rating": 4.2
+  },
+  {
+    "id": "307",
+    "name": "Baba Ganoush",
+    "description": "Smoky roasted eggplant dip with tahini.",
+    "ingredients": "Eggplant, tahini, garlic, lemon, olive oil, cumin, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baba_ghanoush.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "308",
+    "name": "Kibbeh",
+    "description": "Fried bulgur shells stuffed with spiced minced beef.",
+    "ingredients": "Bulgur, ground beef, onion, pine nuts, cinnamon, allspice, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kibbeh.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "309",
+    "name": "Fattoush",
+    "description": "Levantine salad with crispy pita and sumac dressing.",
+    "ingredients": "Lettuce, tomato, cucumber, radish, pita chips, mint, sumac, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fattoush.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "310",
+    "name": "Mujadara",
+    "description": "Lentils and rice topped with crispy caramelized onions.",
+    "ingredients": "Lentils, rice, onion, cumin, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mujadara.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "311",
+    "name": "Chicken Quesadilla",
+    "description": "Grilled tortilla with chicken, cheese and peppers.",
+    "ingredients": "Tortilla, chicken, cheese, bell pepper, onion, salsa",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quesadilla.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "312",
+    "name": "Guacamole with Chips",
+    "description": "Creamy avocado dip with lime and tortilla chips.",
+    "ingredients": "Avocado, lime, onion, tomato, cilantro, chili, tortilla chips, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guacamole.jpg",
+    "tags": ["Vegan", "Fast Food", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "313",
+    "name": "Chicken Enchiladas",
+    "description": "Rolled tortillas with chicken baked in chili sauce.",
+    "ingredients": "Tortillas, chicken, enchilada sauce, cheese, onion, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Enchiladas.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "314",
+    "name": "Chicken Burrito Bowl",
+    "description": "Rice bowl with chicken, beans, corn and salsa.",
+    "ingredients": "Rice, chicken, black beans, corn, salsa, avocado, lime, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Burrito_bowl.jpg",
+    "tags": ["Meat", "Lunch", "Healthy", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "315",
+    "name": "Elote",
+    "description": "Mexican grilled street corn with lime, chili and cheese.",
+    "ingredients": "Corn, mayonnaise, cotija cheese, lime, chili powder, cilantro",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elote.jpg",
+    "tags": ["Vegetarian", "Fast Food", "Gluten-Free"],
+    "rating": 4.2
+  },
+    {
+    "id": "316",
+    "name": "Serpme Kahvalti",
+    "description": "Turkish spread breakfast with cheeses, olives, eggs and jam.",
+    "ingredients": "White cheese, olives, tomato, cucumber, eggs, honey, butter, bread, tea",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkish_breakfast.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.7
+  },
+  {
+    "id": "317",
+    "name": "Simit",
+    "description": "Sesame-crusted Turkish bread ring.",
+    "ingredients": "Flour, yeast, sesame seeds, grape molasses, water, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Simit.jpg",
+    "tags": ["Vegan", "Breakfast"],
+    "rating": 4.3
+  },
+  {
+    "id": "318",
+    "name": "Acma",
+    "description": "Soft Turkish bread roll, lightly sweet.",
+    "ingredients": "Flour, yeast, milk, butter, egg, sugar, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Acma.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.1
+  },
+  {
+    "id": "319",
+    "name": "Kol Boregi",
+    "description": "Rolled Turkish pastry filled with cheese or potato.",
+    "ingredients": "Yufka, white cheese, parsley, egg, milk, oil, nigella seeds",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kol_boregi.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Lunch"],
+    "rating": 4.3
+  },
+  {
+    "id": "320",
+    "name": "Granola Bowl",
+    "description": "Crunchy granola with plant milk and fresh fruit.",
+    "ingredients": "Granola, plant milk, banana, berries, chia seeds, maple syrup",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Granola.jpg",
+    "tags": ["Vegan", "Breakfast", "Healthy"],
+    "rating": 4.2
+  },
+  {
+    "id": "321",
+    "name": "Egg White Omelette",
+    "description": "Light egg white omelette with spinach and tomato.",
+    "ingredients": "Egg whites, spinach, tomato, onion, olive oil, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Omelette.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Healthy", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "322",
+    "name": "Hamsi Tava",
+    "description": "Pan-fried Black Sea anchovies in cornmeal.",
+    "ingredients": "Anchovies, cornmeal, salt, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamsi_tava.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "323",
+    "name": "Levrek Izgara",
+    "description": "Grilled sea bass with lemon and olive oil.",
+    "ingredients": "Sea bass, olive oil, lemon, garlic, parsley, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilled_sea_bass.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "324",
+    "name": "Midye Dolma",
+    "description": "Mussels stuffed with spiced rice, served with lemon.",
+    "ingredients": "Mussels, rice, onion, pine nuts, currants, cinnamon, allspice, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Midye_dolma.jpg",
+    "tags": ["Seafood", "Fast Food"],
+    "rating": 4.4
+  },
+  {
+    "id": "325",
+    "name": "Karides Guvec",
+    "description": "Shrimp casserole baked with tomato and cheese.",
+    "ingredients": "Shrimp, tomato, green pepper, garlic, butter, kasar cheese, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karides_guvec.jpg",
+    "tags": ["Seafood", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "326",
+    "name": "Grilled Trout",
+    "description": "Whole trout grilled with herbs and lemon.",
+    "ingredients": "Trout, olive oil, lemon, garlic, thyme, salt, pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilled_trout.jpg",
+    "tags": ["Seafood", "Healthy", "Gluten-Free", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "327",
+    "name": "Seared Tuna Steak",
+    "description": "Lightly seared tuna with sesame crust.",
+    "ingredients": "Tuna steak, sesame seeds, soy sauce, olive oil, lime, ginger",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuna_steak.jpg",
+    "tags": ["Seafood", "Healthy"],
+    "rating": 4.4
+  },
+  {
+    "id": "328",
+    "name": "Kazandibi",
+    "description": "Caramelized-bottom Turkish milk pudding.",
+    "ingredients": "Milk, sugar, rice flour, cornstarch, vanilla, butter",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazandibi.jpg",
+    "tags": ["Vegetarian", "Dessert", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "329",
+    "name": "Lokma",
+    "description": "Fried dough balls soaked in sweet syrup.",
+    "ingredients": "Flour, yeast, water, sugar syrup, oil, lemon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lokma.jpg",
+    "tags": ["Vegan", "Dessert"],
+    "rating": 4.3
+  },
+  {
+    "id": "330",
+    "name": "Trilece",
+    "description": "Three-milk sponge cake with caramel topping.",
+    "ingredients": "Flour, eggs, sugar, milk, cream, evaporated milk, caramel",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Trilece.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.5
+  },
+  {
+    "id": "331",
+    "name": "Panettone",
+    "description": "Italian sweet bread with candied fruit and raisins.",
+    "ingredients": "Flour, butter, eggs, sugar, candied orange, raisins, yeast, vanilla",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panettone.jpg",
+    "tags": ["Vegetarian", "Dessert", "Breakfast"],
+    "rating": 4.3
+  },
+  {
+    "id": "332",
+    "name": "Spaghetti Aglio e Olio",
+    "description": "Spaghetti with garlic, olive oil and chili.",
+    "ingredients": "Spaghetti, garlic, olive oil, chili flakes, parsley, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aglio_e_olio.jpg",
+    "tags": ["Vegan", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "333",
+    "name": "Fettuccine Alfredo",
+    "description": "Fettuccine in a creamy parmesan butter sauce.",
+    "ingredients": "Fettuccine, butter, parmesan, cream, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fettuccine_Alfredo.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "334",
+    "name": "Pasta Primavera",
+    "description": "Pasta with fresh spring vegetables in light olive oil.",
+    "ingredients": "Pasta, zucchini, cherry tomatoes, peas, bell pepper, garlic, basil, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasta_primavera.jpg",
+    "tags": ["Vegan", "Healthy", "Dinner"],
+    "rating": 4.2
+  },
+  {
+    "id": "335",
+    "name": "Burrata Salad",
+    "description": "Creamy burrata with tomato, basil and olive oil.",
+    "ingredients": "Burrata, tomato, basil, arugula, olive oil, balsamic, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Burrata.jpg",
+    "tags": ["Vegetarian", "Healthy", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "336",
+    "name": "Pizza Salsiccia",
+    "description": "Pizza topped with Italian sausage and onion.",
+    "ingredients": "Pizza dough, tomato, mozzarella, Italian sausage, onion",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_salsiccia.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4,
+    "containsPork": true
+  },
+  {
+    "id": "337",
+    "name": "Vitello Tonnato",
+    "description": "Cold sliced veal with a creamy tuna sauce.",
+    "ingredients": "Veal, tuna, capers, mayonnaise, anchovy, lemon, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vitello_tonnato.jpg",
+    "tags": ["Meat", "Lunch", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "338",
+    "name": "Stracciatella Soup",
+    "description": "Roman egg-drop soup with parmesan in broth.",
+    "ingredients": "Chicken broth, eggs, parmesan, semolina, nutmeg, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stracciatella_soup.jpg",
+    "tags": ["Vegetarian", "Lunch"],
+    "rating": 4.1
+  },
+  {
+    "id": "339",
+    "name": "Chicken Fried Rice",
+    "description": "Wok-fried rice with chicken, egg and vegetables.",
+    "ingredients": "Rice, chicken, egg, peas, carrot, scallions, soy sauce, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_fried_rice.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "340",
+    "name": "Vegetable Bao Buns",
+    "description": "Fluffy steamed buns filled with seasoned vegetables.",
+    "ingredients": "Bao buns, cabbage, mushrooms, carrot, hoisin, ginger, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bao_buns.jpg",
+    "tags": ["Vegan", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "341",
+    "name": "Shrimp Wonton Soup",
+    "description": "Delicate shrimp dumplings in a clear broth.",
+    "ingredients": "Wonton wrappers, shrimp, ginger, scallions, soy sauce, chicken broth",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wonton_soup.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "342",
+    "name": "Singapore Noodles",
+    "description": "Curry-spiced rice vermicelli with shrimp and vegetables.",
+    "ingredients": "Rice vermicelli, shrimp, curry powder, bell pepper, egg, scallions, soy sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Singapore_noodles.jpg",
+    "tags": ["Seafood", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "343",
+    "name": "Panang Curry",
+    "description": "Thick, mild Thai curry with beef and peanuts.",
+    "ingredients": "Beef, coconut milk, panang curry paste, peanuts, kaffir lime, basil, fish sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panang_curry.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "344",
+    "name": "Mongolian Beef",
+    "description": "Crispy beef in a sweet-savory soy glaze with scallions.",
+    "ingredients": "Beef, cornstarch, soy sauce, brown sugar, ginger, garlic, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mongolian_beef.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "345",
+    "name": "Sundubu Jjigae",
+    "description": "Korean spicy soft tofu stew with vegetables.",
+    "ingredients": "Soft tofu, gochugaru, zucchini, mushrooms, onion, garlic, egg, scallions",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sundubu_jjigae.jpg",
+    "tags": ["Vegetarian", "Healthy", "Dinner", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "346",
+    "name": "Vegetable Tempura",
+    "description": "Light, crispy battered seasonal vegetables.",
+    "ingredients": "Zucchini, sweet potato, bell pepper, tempura flour, ice water, dipping sauce",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable_tempura.jpg",
+    "tags": ["Vegan", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "347",
+    "name": "Mango Lassi",
+    "description": "Sweet Indian yogurt drink blended with mango.",
+    "ingredients": "Mango, yogurt, milk, sugar, cardamom",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mango_lassi.jpg",
+    "tags": ["Vegetarian", "Breakfast", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "348",
+    "name": "Chicken Tikka",
+    "description": "Char-grilled marinated chicken chunks.",
+    "ingredients": "Chicken, yogurt, ginger, garlic, garam masala, turmeric, lemon, chili",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_tikka.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "349",
+    "name": "Beef Chow Fun",
+    "description": "Wide rice noodles stir-fried with beef and bean sprouts.",
+    "ingredients": "Wide rice noodles, beef, bean sprouts, scallions, soy sauce, ginger, sesame oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beef_chow_fun.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "350",
+    "name": "Vegetable Pakora",
+    "description": "Crispy Indian fritters of spiced chickpea-battered vegetables.",
+    "ingredients": "Chickpea flour, potato, onion, spinach, cumin, turmeric, chili, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakora.jpg",
+    "tags": ["Vegan", "Fast Food", "Gluten-Free"],
+    "rating": 4.2
+  },
+    {
+    "id": "351",
+    "name": "Mucver",
+    "description": "Turkish zucchini fritters with herbs and feta.",
+    "ingredients": "Zucchini, eggs, flour, feta, dill, scallions, mint, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mucver.jpg",
+    "tags": ["Vegetarian", "Healthy"],
+    "rating": 4.3
+  },
+  {
+    "id": "352",
+    "name": "Zeytinyagli Enginar",
+    "description": "Artichokes braised with vegetables in olive oil, served cold.",
+    "ingredients": "Artichoke, carrot, potato, peas, onion, lemon, dill, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Enginar.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "353",
+    "name": "Zeytinyagli Taze Fasulye",
+    "description": "Green beans slow-cooked with tomato in olive oil.",
+    "ingredients": "Green beans, tomato, onion, garlic, olive oil, sugar, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taze_fasulye.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "354",
+    "name": "Ot Kavurmasi",
+    "description": "Aegean wild greens sauteed with onion and olive oil.",
+    "ingredients": "Wild greens, onion, garlic, olive oil, lemon, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ot_kavurmasi.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "355",
+    "name": "Deniz Borulcesi Salatasi",
+    "description": "Aegean samphire salad with garlic and olive oil.",
+    "ingredients": "Samphire, garlic, lemon, olive oil, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deniz_borulcesi.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "356",
+    "name": "Balik Ekmek",
+    "description": "Grilled fish fillet in bread with onion and greens.",
+    "ingredients": "Mackerel, bread, onion, lettuce, lemon, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Balik_ekmek.jpg",
+    "tags": ["Seafood", "Fast Food", "Lunch"],
+    "rating": 4.4
+  },
+  {
+    "id": "357",
+    "name": "Kumru",
+    "description": "Izmir-style sandwich with cheese, sausage and tomato.",
+    "ingredients": "Sesame bread, kasar cheese, sucuk (beef sausage), tomato, green pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumru.jpg",
+    "tags": ["Meat", "Lunch", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "358",
+    "name": "Boyoz",
+    "description": "Flaky Izmir breakfast pastry, served plain or with egg.",
+    "ingredients": "Flour, sunflower oil, tahini, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boyoz.jpg",
+    "tags": ["Vegetarian", "Breakfast"],
+    "rating": 4.2
+  },
+  {
+    "id": "359",
+    "name": "Pulpo a la Gallega",
+    "description": "Galician octopus with paprika and olive oil over potato.",
+    "ingredients": "Octopus, potato, smoked paprika, olive oil, sea salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulpo_a_la_gallega.jpg",
+    "tags": ["Seafood", "Gluten-Free"],
+    "rating": 4.4
+  },
+  {
+    "id": "360",
+    "name": "Albondigas",
+    "description": "Spanish beef meatballs in a rich tomato sauce.",
+    "ingredients": "Ground beef, onion, garlic, breadcrumbs, egg, tomato, white wine, parsley",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albondigas.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "361",
+    "name": "Croquetas de Pollo",
+    "description": "Creamy breaded chicken croquettes, fried golden.",
+    "ingredients": "Chicken, bechamel, flour, breadcrumbs, egg, onion, nutmeg, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Croquetas.jpg",
+    "tags": ["Meat", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "362",
+    "name": "Ensaladilla Rusa",
+    "description": "Spanish potato salad with peas, carrot and tuna.",
+    "ingredients": "Potato, carrot, peas, tuna, egg, mayonnaise, olives",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ensaladilla_rusa.jpg",
+    "tags": ["Seafood", "Lunch", "Gluten-Free"],
+    "rating": 4.1
+  },
+  {
+    "id": "363",
+    "name": "Pimientos de Padron",
+    "description": "Blistered small green peppers with sea salt.",
+    "ingredients": "Padron peppers, olive oil, sea salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pimientos_de_padron.jpg",
+    "tags": ["Vegan", "Healthy", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "364",
+    "name": "Pasta alla Norma",
+    "description": "Sicilian pasta with fried eggplant, tomato and ricotta salata.",
+    "ingredients": "Pasta, eggplant, tomato, garlic, basil, ricotta salata, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasta_alla_Norma.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "365",
+    "name": "Bistecca alla Fiorentina",
+    "description": "Thick Tuscan T-bone steak grilled rare.",
+    "ingredients": "T-bone steak, olive oil, rosemary, garlic, sea salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bistecca_alla_fiorentina.jpg",
+    "tags": ["Meat", "Dinner", "Gluten-Free"],
+    "rating": 4.7
+  },
+  {
+    "id": "366",
+    "name": "Cotoletta alla Milanese",
+    "description": "Breaded veal cutlet fried in butter, Milan style.",
+    "ingredients": "Veal cutlet, breadcrumbs, egg, flour, butter, lemon, salt",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cotoletta_alla_milanese.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.5
+  },
+  {
+    "id": "367",
+    "name": "Polenta ai Funghi",
+    "description": "Creamy polenta topped with sauteed mushrooms.",
+    "ingredients": "Polenta, mushrooms, garlic, butter, parmesan, parsley, stock",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Polenta.jpg",
+    "tags": ["Vegetarian", "Dinner", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "368",
+    "name": "Trofie al Pesto",
+    "description": "Ligurian twisted pasta with basil pesto, potato and beans.",
+    "ingredients": "Trofie pasta, basil pesto, potato, green beans, parmesan, pine nuts",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Trofie_al_pesto.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "369",
+    "name": "Farinata",
+    "description": "Ligurian baked chickpea flatbread with rosemary.",
+    "ingredients": "Chickpea flour, water, olive oil, rosemary, salt, black pepper",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Farinata.jpg",
+    "tags": ["Vegan", "Gluten-Free", "Fast Food"],
+    "rating": 4.2
+  },
+  {
+    "id": "370",
+    "name": "Orecchiette con Cime di Rapa",
+    "description": "Puglian pasta with turnip greens, garlic and chili.",
+    "ingredients": "Orecchiette, turnip greens, garlic, chili, anchovy, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Orecchiette.jpg",
+    "tags": ["Vegetarian", "Dinner"],
+    "rating": 4.3
+  },
+  {
+    "id": "371",
+    "name": "Tagliatelle al Ragu",
+    "description": "Bolognese ribbon pasta with slow-cooked beef ragu.",
+    "ingredients": "Tagliatelle, ground beef, tomato, onion, carrot, celery, red wine, parmesan",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tagliatelle_al_ragu.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.6
+  },
+  {
+    "id": "372",
+    "name": "Suppli",
+    "description": "Roman fried rice balls with a melty mozzarella center.",
+    "ingredients": "Rice, tomato, mozzarella, breadcrumbs, egg, parmesan, oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Suppli.jpg",
+    "tags": ["Vegetarian", "Fast Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "373",
+    "name": "Granita",
+    "description": "Sicilian semi-frozen iced dessert with fruit or coffee.",
+    "ingredients": "Water, sugar, lemon, fruit",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Granita.jpg",
+    "tags": ["Vegan", "Dessert", "Gluten-Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "374",
+    "name": "Sfogliatella",
+    "description": "Neapolitan shell-shaped pastry with sweet ricotta.",
+    "ingredients": "Flour, butter, ricotta, semolina, candied orange, sugar, cinnamon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sfogliatella.jpg",
+    "tags": ["Vegetarian", "Dessert"],
+    "rating": 4.4
+  },
+  {
+    "id": "375",
+    "name": "Pappa al Pomodoro",
+    "description": "Tuscan bread and tomato soup with basil.",
+    "ingredients": "Bread, tomato, garlic, basil, vegetable stock, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pappa_al_pomodoro.jpg",
+    "tags": ["Vegan", "Healthy", "Lunch"],
+    "rating": 4.2
+  },
+  {
+    "id": "376",
+    "name": "Sarde in Saor",
+    "description": "Venetian sweet-and-sour sardines with onion and raisins.",
+    "ingredients": "Sardines, onion, vinegar, raisins, pine nuts, flour, olive oil",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarde_in_saor.jpg",
+    "tags": ["Seafood"],
+    "rating": 4.1
+  },
+  {
+    "id": "377",
+    "name": "Agnolotti",
+    "description": "Piedmontese filled pasta with braised beef and herbs.",
+    "ingredients": "Pasta, beef, spinach, parmesan, egg, butter, sage, nutmeg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Agnolotti.jpg",
+    "tags": ["Meat", "Dinner"],
+    "rating": 4.4
+  },
+  {
+    "id": "378",
+    "name": "Bagna Cauda",
+    "description": "Piedmontese warm garlic-anchovy dip for vegetables.",
+    "ingredients": "Anchovies, garlic, olive oil, butter, mixed raw vegetables",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bagna_cauda.jpg",
+    "tags": ["Seafood", "Gluten-Free"],
+    "rating": 4.0
+  }
+]
