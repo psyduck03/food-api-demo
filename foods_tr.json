@@ -1,0 +1,2760 @@
+[
+  {
+    "id": "1001",
+    "name": "Mercimek Çorbası",
+    "description": "Kırmızı mercimekle yapılan, kıvamlı ve doyurucu klasik Türk çorbası.",
+    "ingredients": "Kırmızı mercimek, soğan, havuç, patates, un, tereyağı, kimyon, pul biber, limon",
+    "imageUrl": "https://images.pexels.com/photos/4001866/pexels-photo-4001866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1002",
+    "name": "Ezogelin Çorbası",
+    "description": "Kırmızı mercimek, bulgur ve pirinçle yapılan baharatlı Anadolu çorbası.",
+    "ingredients": "Kırmızı mercimek, bulgur, pirinç, soğan, salça, nane, pul biber, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/15108369/pexels-photo-15108369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1003",
+    "name": "Yayla Çorbası",
+    "description": "Yoğurt, pirinç ve nane ile hazırlanan ferah, hafif çorba.",
+    "ingredients": "Yoğurt, pirinç, un, yumurta, tereyağı, kuru nane, tuz",
+    "imageUrl": "https://images.pexels.com/photos/26152648/pexels-photo-26152648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1004",
+    "name": "Domates Çorbası",
+    "description": "Közlenmiş domateslerle yapılan kadifemsi, sıcacık çorba.",
+    "ingredients": "Domates, salça, un, tereyağı, et suyu, kaşar, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/14774700/pexels-photo-14774700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1005",
+    "name": "Tarhana Çorbası",
+    "description": "Mayalı tarhanadan yapılan, ekşimsi geleneksel kış çorbası.",
+    "ingredients": "Tarhana, salça, tereyağı, su, tuz, kıtır ekmek",
+    "imageUrl": "https://images.pexels.com/photos/29007238/pexels-photo-29007238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1006",
+    "name": "Tavuk Suyu Çorbası",
+    "description": "Şehriye veya pirinçle hazırlanan, hafif ve iyi gelen tavuk çorbası.",
+    "ingredients": "Tavuk, şehriye, havuç, soğan, tereyağı, maydanoz, tuz",
+    "imageUrl": "https://images.pexels.com/photos/4669274/pexels-photo-4669274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Meat",
+      "Healthy"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1007",
+    "name": "İşkembe Çorbası",
+    "description": "Sarımsaklı sirke ve kırmızı biberle servis edilen klasik işkembe çorbası.",
+    "ingredients": "İşkembe, un, yumurta, sarımsak, sirke, tereyağı, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/4776470/pexels-photo-4776470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Meat"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1008",
+    "name": "Düğün Çorbası",
+    "description": "Et suyu ve terbiye ile hazırlanan kıvamlı geleneksel çorba.",
+    "ingredients": "Kuzu eti, un, yumurta, limon, tereyağı, pul biber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/37142274/pexels-photo-37142274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1009",
+    "name": "Şehriye Çorbası",
+    "description": "Domatesli sıcak suda pişen pratik ve sevilen şehriye çorbası.",
+    "ingredients": "Tel şehriye, salça, tereyağı, su, tuz, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/5638536/pexels-photo-5638536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegetarian"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1010",
+    "name": "Brokoli Çorbası",
+    "description": "Kremamsı kıvamda, besleyici ve hafif brokoli çorbası.",
+    "ingredients": "Brokoli, patates, soğan, sarımsak, süt, tereyağı, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/20004858/pexels-photo-20004858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1011",
+    "name": "Kelle Paça Çorbası",
+    "description": "Sarımsaklı sirkeyle içilen, doyurucu ve geleneksel paça çorbası.",
+    "ingredients": "Kuzu paça, sarımsak, un, yumurta, sirke, tereyağı, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/4776470/pexels-photo-4776470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Meat"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "1012",
+    "name": "Mantar Çorbası",
+    "description": "Kremamsı, aromatik mantarlarla yapılan sıcacık çorba.",
+    "ingredients": "Mantar, soğan, sarımsak, un, süt, tereyağı, maydanoz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/4103375/pexels-photo-4103375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1013",
+    "name": "Sebze Çorbası",
+    "description": "Mevsim sebzeleriyle yapılan hafif, sağlıklı ve doyurucu çorba.",
+    "ingredients": "Havuç, patates, kabak, bezelye, domates, soğan, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/35695377/pexels-photo-35695377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Lunch",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1014",
+    "name": "Balık Çorbası",
+    "description": "Taze balık ve sebzelerle hazırlanan terbiyeli deniz çorbası.",
+    "ingredients": "Beyaz et balık, havuç, patates, soğan, limon, yumurta, un, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/5041490/pexels-photo-5041490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Seafood"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1015",
+    "name": "Analı Kızlı Çorbası",
+    "description": "Küçük köfteler ve bulgurla yapılan Güneydoğu'nun doyurucu çorbası.",
+    "ingredients": "Kıyma, bulgur, nohut, soğan, salça, nane, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/15059718/pexels-photo-15059718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1016",
+    "name": "Toyga Çorbası",
+    "description": "Yoğurt ve buğdayla yapılan, naneli geleneksel Anadolu çorbası.",
+    "ingredients": "Yoğurt, buğday, nohut, un, yumurta, nane, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/19503784/pexels-photo-19503784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Soup",
+      "Vegetarian"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "1017",
+    "name": "Kuru Fasulye",
+    "description": "Domates soslu, kıvamlı kuru fasulye; pilavla en sevilen ev yemeği.",
+    "ingredients": "Kuru fasulye, soğan, salça, domates, zeytinyağı, pul biber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/10468384/pexels-photo-10468384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegan"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1018",
+    "name": "Nohut Yemeği",
+    "description": "Yumuşacık nohutlarla yapılan, doyurucu ve ekonomik klasik.",
+    "ingredients": "Nohut, soğan, salça, domates, zeytinyağı, kimyon, tuz",
+    "imageUrl": "https://images.pexels.com/photos/35369047/pexels-photo-35369047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1019",
+    "name": "Etli Türlü",
+    "description": "Mevsim sebzeleri ve etin fırında buluştuğu geleneksel güveç.",
+    "ingredients": "Kuşbaşı et, patlıcan, kabak, biber, patates, domates, sarımsak",
+    "imageUrl": "https://images.pexels.com/photos/36934956/pexels-photo-36934956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1020",
+    "name": "Etli Taze Fasulye",
+    "description": "Zeytinyağlı taze fasulyenin etli, domates soslu sıcak hali.",
+    "ingredients": "Taze fasulye, kuşbaşı et, soğan, domates, salça, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/5863607/pexels-photo-5863607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1021",
+    "name": "Etli Bamya",
+    "description": "Küçük bamyalarla yapılan, limonlu ekşimsi geleneksel yemek.",
+    "ingredients": "Bamya, kuşbaşı et, soğan, domates, salça, limon, tuz",
+    "imageUrl": "https://images.pexels.com/photos/6063320/pexels-photo-6063320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1022",
+    "name": "Patates Oturtma",
+    "description": "Kıyma ve patatesin fırında pişen pratik, doyurucu yemeği.",
+    "ingredients": "Patates, kıyma, soğan, domates, biber, salça, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/10255521/pexels-photo-10255521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1023",
+    "name": "Karnıyarık",
+    "description": "Kıymalı harçla doldurulmuş, çatal batan patlıcan yemeği.",
+    "ingredients": "Patlıcan, kıyma, soğan, domates, biber, sarımsak, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/8251579/pexels-photo-8251579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1024",
+    "name": "Musakka",
+    "description": "Patlıcan, patates ve kıymanın kat kat pişen sevilen yemeği.",
+    "ingredients": "Patlıcan, patates, kıyma, soğan, domates, biber, salça",
+    "imageUrl": "https://images.pexels.com/photos/5112637/pexels-photo-5112637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1025",
+    "name": "Sebzeli Güveç",
+    "description": "Fırında ağır ağır pişen, aromatik sebze güveci.",
+    "ingredients": "Patlıcan, kabak, biber, patates, domates, sarımsak, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/30965501/pexels-photo-30965501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1026",
+    "name": "Kıymalı Ispanak",
+    "description": "Kıyma ve pirinçle pişen besleyici ıspanak yemeği.",
+    "ingredients": "Ispanak, kıyma, soğan, pirinç, salça, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/15108373/pexels-photo-15108373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1027",
+    "name": "Mücver",
+    "description": "Kabak rendesiyle yapılan, dışı çıtır kızarmış sebze köftesi.",
+    "ingredients": "Kabak, yumurta, un, dereotu, soğan, beyaz peynir, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/24870672/pexels-photo-24870672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1028",
+    "name": "Hünkar Beğendi",
+    "description": "Közlenmiş patlıcan püresi üzerinde sunulan etli kebap.",
+    "ingredients": "Kuşbaşı et, patlıcan, süt, kaşar, un, tereyağı, domates",
+    "imageUrl": "https://images.pexels.com/photos/5713756/pexels-photo-5713756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1029",
+    "name": "Kabak Dolması",
+    "description": "Kıymalı pirinç harcıyla doldurulmuş, sulu kabak dolması.",
+    "ingredients": "Kabak, kıyma, pirinç, soğan, domates, nane, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/30764320/pexels-photo-30764320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1030",
+    "name": "Etli Biber Dolması",
+    "description": "Kıyma ve pirinçle dolan, domates soslu klasik biber dolması.",
+    "ingredients": "Yeşil biber, kıyma, pirinç, soğan, salça, nane, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/30764320/pexels-photo-30764320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1031",
+    "name": "Lahana Dolması",
+    "description": "İnce sarılmış, kıymalı pirinç harçlı geleneksel lahana sarma.",
+    "ingredients": "Lahana, kıyma, pirinç, soğan, salça, pul biber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/18632203/pexels-photo-18632203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1032",
+    "name": "Fırın Tavuk",
+    "description": "Baharatlarla marine edilip patatesle fırınlanan bütün tavuk.",
+    "ingredients": "Tavuk, patates, sarımsak, zeytinyağı, kekik, kırmızı biber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/19259179/pexels-photo-19259179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1033",
+    "name": "Tavuk Güveç",
+    "description": "Sebzelerle birlikte fırında pişen sulu, lezzetli tavuk güveci.",
+    "ingredients": "Tavuk, mantar, biber, domates, soğan, sarımsak, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/5713761/pexels-photo-5713761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Healthy"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1034",
+    "name": "Bezelye Yemeği",
+    "description": "Havuç ve patatesle pişen, hafif ve sevilen sebze yemeği.",
+    "ingredients": "Bezelye, havuç, patates, soğan, salça, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/33433980/pexels-photo-33433980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1035",
+    "name": "Etli Patates",
+    "description": "Kuşbaşı et ve patatesin domates soslu doyurucu yemeği.",
+    "ingredients": "Patates, kuşbaşı et, soğan, biber, domates, salça, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/16260569/pexels-photo-16260569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1036",
+    "name": "Kıymalı Bamya",
+    "description": "Kıymayla pişen, domates soslu küçük taneli bamya yemeği.",
+    "ingredients": "Bamya, kıyma, soğan, domates, salça, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/6063320/pexels-photo-6063320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1037",
+    "name": "Zeytinyağlı Yaprak Sarma",
+    "description": "İnce sarılmış, limonlu ve soğuk servis edilen zeytinyağlı sarma.",
+    "ingredients": "Asma yaprağı, pirinç, soğan, dolmalık fıstık, kuş üzümü, nane, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/4768969/pexels-photo-4768969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1038",
+    "name": "Zeytinyağlı Taze Fasulye",
+    "description": "Domatesle ağır ateşte pişen, soğuk yenen ferah fasulye.",
+    "ingredients": "Taze fasulye, soğan, domates, sarımsak, zeytinyağı, şeker, tuz",
+    "imageUrl": "https://images.pexels.com/photos/2942331/pexels-photo-2942331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1039",
+    "name": "Zeytinyağlı Enginar",
+    "description": "Bezelye ve havuçla, limonlu suyunda pişen narin enginar.",
+    "ingredients": "Enginar, bezelye, havuç, patates, soğan, dereotu, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/28446039/pexels-photo-28446039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1040",
+    "name": "Zeytinyağlı Barbunya",
+    "description": "Taze barbunya fasulyesiyle yapılan, doyurucu zeytinyağlı.",
+    "ingredients": "Barbunya, havuç, patates, soğan, domates, sarımsak, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/36912393/pexels-photo-36912393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1041",
+    "name": "Zeytinyağlı Pırasa",
+    "description": "Pirinç ve havuçla, hafif tatlımsı zeytinyağlı pırasa.",
+    "ingredients": "Pırasa, havuç, pirinç, soğan, limon, şeker, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/6795827/pexels-photo-6795827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1042",
+    "name": "Zeytinyağlı Kereviz",
+    "description": "Portakallı, limonlu suyunda pişen ferah kereviz yemeği.",
+    "ingredients": "Kereviz, havuç, patates, bezelye, portakal, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/2452276/pexels-photo-2452276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "1043",
+    "name": "İmam Bayıldı",
+    "description": "Soğan ve domatesle doldurulmuş, zeytinyağında pişen patlıcan.",
+    "ingredients": "Patlıcan, soğan, domates, sarımsak, maydanoz, şeker, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/8251579/pexels-photo-8251579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Dinner"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1044",
+    "name": "Zeytinyağlı Bakla",
+    "description": "Taze baklayla, dereotlu ve limonlu hazırlanan bahar yemeği.",
+    "ingredients": "Taze bakla, soğan, dereotu, limon, şeker, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/37315861/pexels-photo-37315861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1045",
+    "name": "Zeytinyağlı Kabak",
+    "description": "Dereotlu, soğanla yumuşacık pişen hafif kabak yemeği.",
+    "ingredients": "Kabak, soğan, havuç, dereotu, domates, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/34429582/pexels-photo-34429582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1046",
+    "name": "Zeytinyağlı Semizotu",
+    "description": "Pirinçle pişen, hafif ekşimsi ve besleyici semizotu yemeği.",
+    "ingredients": "Semizotu, pirinç, soğan, domates, sarımsak, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/30750276/pexels-photo-30750276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "1047",
+    "name": "Zeytinyağlı Patlıcan",
+    "description": "Soğan ve domatesle, zeytinyağında pişen yaz yemeği.",
+    "ingredients": "Patlıcan, soğan, domates, biber, sarımsak, şeker, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/30818656/pexels-photo-30818656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Lunch"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1048",
+    "name": "İzmir Köfte",
+    "description": "Patates ve biberle, domates sosunda fırınlanan sulu köfte.",
+    "ingredients": "Kıyma, patates, yeşil biber, domates, soğan, ekmek içi, salça",
+    "imageUrl": "https://images.pexels.com/photos/34314421/pexels-photo-34314421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1049",
+    "name": "Tekirdağ Köfte",
+    "description": "Mangalda pişen, baharatlı ve yumuşacık ızgara köfte.",
+    "ingredients": "Kıyma, soğan, sarımsak, kimyon, karbonat, ekmek içi, tuz",
+    "imageUrl": "https://images.pexels.com/photos/6920656/pexels-photo-6920656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1050",
+    "name": "Tas Kebabı",
+    "description": "Soğanla ağır ateşte pişen, lokum gibi kuşbaşı et yemeği.",
+    "ingredients": "Kuşbaşı et, soğan, domates, biber, salça, defne yaprağı",
+    "imageUrl": "https://images.pexels.com/photos/36934968/pexels-photo-36934968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1051",
+    "name": "Tavuk Sote",
+    "description": "Renkli biberlerle hızlıca sotelenen pratik tavuk yemeği.",
+    "ingredients": "Tavuk göğsü, biber, soğan, mantar, domates, zeytinyağı, baharat",
+    "imageUrl": "https://images.pexels.com/photos/15481466/pexels-photo-15481466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1052",
+    "name": "Et Sote",
+    "description": "Sebzelerle harmanlanan, baharatlı kuşbaşı et sote.",
+    "ingredients": "Kuşbaşı et, biber, soğan, domates, mantar, salça, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/27588093/pexels-photo-27588093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1053",
+    "name": "Orman Kebabı",
+    "description": "Bezelye ve havuçla, sebzeli sulu et yemeği.",
+    "ingredients": "Kuşbaşı et, havuç, bezelye, patates, soğan, salça, defne",
+    "imageUrl": "https://images.pexels.com/photos/10338629/pexels-photo-10338629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1054",
+    "name": "Tavuk Şinitzel",
+    "description": "Galeta ununa bulanıp kızartılan, dışı çıtır tavuk.",
+    "ingredients": "Tavuk göğsü, un, yumurta, galeta unu, tuz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/19396433/pexels-photo-19396433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Fast Food"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1055",
+    "name": "Kuzu İncik",
+    "description": "Saatlerce pişip kemiğinden ayrılan, yumuşacık kuzu incik.",
+    "ingredients": "Kuzu incik, soğan, sarımsak, havuç, domates, kekik, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/7741798/pexels-photo-7741798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1056",
+    "name": "Çoban Kavurma",
+    "description": "Sebzelerle kavrulan, baharatlı geleneksel et kavurması.",
+    "ingredients": "Kuşbaşı et, biber, domates, soğan, sarımsak, kekik, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/36934956/pexels-photo-36934956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1057",
+    "name": "Bonfile",
+    "description": "Izgarada mühürlenen, yumuşacık dana bonfile.",
+    "ingredients": "Dana bonfile, zeytinyağı, tereyağı, sarımsak, kekik, karabiber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/18852565/pexels-photo-18852565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Gluten-Free"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1058",
+    "name": "Kuzu Pirzola",
+    "description": "Mangalda pişen, kemikli ve sulu kuzu pirzola.",
+    "ingredients": "Kuzu pirzola, zeytinyağı, kekik, sarımsak, karabiber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/33469321/pexels-photo-33469321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Gluten-Free"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1059",
+    "name": "Et Kavurma",
+    "description": "Kendi yağında kavrulan, sade ve lezzetli kuşbaşı kavurma.",
+    "ingredients": "Kuşbaşı et, kuyruk yağı, soğan, karabiber, kekik, tuz",
+    "imageUrl": "https://images.pexels.com/photos/37206705/pexels-photo-37206705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Gluten-Free"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1060",
+    "name": "Salçalı Köfte",
+    "description": "Domates sosunda pişen, ekmek banılası kıymalı köfte.",
+    "ingredients": "Kıyma, soğan, sarımsak, ekmek içi, salça, domates, baharat",
+    "imageUrl": "https://images.pexels.com/photos/34314421/pexels-photo-34314421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1061",
+    "name": "Terbiyeli Köfte",
+    "description": "Limonlu yumurta terbiyesiyle, hafif ekşimsi sulu köfte.",
+    "ingredients": "Kıyma, pirinç, havuç, un, yumurta, limon, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/38017797/pexels-photo-38017797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1062",
+    "name": "Fırın Tavuk Baget",
+    "description": "Baharatlarla marine edilip fırınlanan çıtır tavuk baget.",
+    "ingredients": "Tavuk baget, sarımsak, yoğurt, kırmızı biber, zeytinyağı, kekik",
+    "imageUrl": "https://images.pexels.com/photos/10165685/pexels-photo-10165685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1063",
+    "name": "Adana Kebabı",
+    "description": "Acılı zırh kıymasından, mangalda pişen ünlü Adana kebabı.",
+    "ingredients": "Kuzu kıyma, kuyruk yağı, acı biber, sarımsak, kırmızı biber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/7439809/pexels-photo-7439809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "1064",
+    "name": "Urfa Kebabı",
+    "description": "Acısız, baharatlı kıymadan hazırlanan közde Urfa kebabı.",
+    "ingredients": "Kuzu kıyma, kuyruk yağı, soğan, karabiber, kimyon, tuz",
+    "imageUrl": "https://images.pexels.com/photos/7439809/pexels-photo-7439809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1065",
+    "name": "İskender Kebap",
+    "description": "Tereyağı ve domates soslu, yoğurtla servis edilen döner.",
+    "ingredients": "Döner eti, pide, domates sosu, tereyağı, yoğurt",
+    "imageUrl": "https://images.pexels.com/photos/18062060/pexels-photo-18062060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "1066",
+    "name": "Tavuk Şiş",
+    "description": "Marine edilip şişte ızgaralanan, sulu tavuk parçaları.",
+    "ingredients": "Tavuk göğsü, yoğurt, sarımsak, biber, zeytinyağı, kekik",
+    "imageUrl": "https://images.pexels.com/photos/37322777/pexels-photo-37322777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Healthy"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1067",
+    "name": "Kuzu Şiş",
+    "description": "Közde pişen, yumuşacık marine kuzu şiş kebap.",
+    "ingredients": "Kuzu kuşbaşı, soğan, biber, zeytinyağı, kekik, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/37206698/pexels-photo-37206698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Gluten-Free"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1068",
+    "name": "Çöp Şiş",
+    "description": "İnce tahta şişlerde pişen, küçük marine et parçaları.",
+    "ingredients": "Dana eti, soğan, domates, biber, zeytinyağı, baharat",
+    "imageUrl": "https://images.pexels.com/photos/20352395/pexels-photo-20352395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1069",
+    "name": "Beyti Kebap",
+    "description": "Lavaşa sarılıp domates soslu, yoğurtlu servis edilen kebap.",
+    "ingredients": "Kıyma, lavaş, sarımsak, domates sosu, tereyağı, yoğurt",
+    "imageUrl": "https://images.pexels.com/photos/15390223/pexels-photo-15390223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1070",
+    "name": "Patlıcan Kebabı",
+    "description": "Köfte ve patlıcanın art arda dizilip piştiği közde kebap.",
+    "ingredients": "Kıyma, patlıcan, domates, biber, sarımsak, baharat",
+    "imageUrl": "https://images.pexels.com/photos/5191846/pexels-photo-5191846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1071",
+    "name": "Tavuk Döner",
+    "description": "Şişte pişip ince dilimlenen, dürüm ya da porsiyon tavuk döner.",
+    "ingredients": "Tavuk, yoğurt, baharat, lavaş, domates, marul, soğan",
+    "imageUrl": "https://images.pexels.com/photos/28897047/pexels-photo-28897047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1072",
+    "name": "Et Döner",
+    "description": "Dikey şişte kat kat pişen, klasik dana/kuzu döner.",
+    "ingredients": "Dana eti, kuzu yağı, baharat, pide, domates, soğan",
+    "imageUrl": "https://images.pexels.com/photos/36850032/pexels-photo-36850032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1073",
+    "name": "Izgara Köfte",
+    "description": "Mangalda pişen, yanında pilav veya ekmekle sevilen köfte.",
+    "ingredients": "Kıyma, soğan, sarımsak, kimyon, karabiber, ekmek içi",
+    "imageUrl": "https://images.pexels.com/photos/27390931/pexels-photo-27390931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1074",
+    "name": "Ciğer Şiş",
+    "description": "Kuyruk yağıyla şişe dizilip közde pişen kuzu ciğeri.",
+    "ingredients": "Kuzu ciğeri, kuyruk yağı, kimyon, pul biber, soğan, tuz",
+    "imageUrl": "https://images.pexels.com/photos/15390671/pexels-photo-15390671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1075",
+    "name": "Cağ Kebabı",
+    "description": "Yatay şişte odun ateşinde pişen, Erzurum'un meşhur kebabı.",
+    "ingredients": "Kuzu eti, soğan, karabiber, tuz, lavaş",
+    "imageUrl": "https://images.pexels.com/photos/19805189/pexels-photo-19805189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1076",
+    "name": "Testi Kebabı",
+    "description": "Toprak testide pişip masada kırılan, sebzeli et kebabı.",
+    "ingredients": "Kuşbaşı et, patlıcan, biber, mantar, domates, sarımsak",
+    "imageUrl": "https://images.pexels.com/photos/4899794/pexels-photo-4899794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1077",
+    "name": "Tavuk Kanat",
+    "description": "Marine edilip ızgarada kızaran, çıtır kenarlı tavuk kanat.",
+    "ingredients": "Tavuk kanat, salça, sarımsak, zeytinyağı, pul biber, kekik",
+    "imageUrl": "https://images.pexels.com/photos/36750260/pexels-photo-36750260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1078",
+    "name": "Bıçak Arası",
+    "description": "Bıçakla kıyılmış et ve ekmekle hazırlanan sokak lezzeti.",
+    "ingredients": "Dana eti, kuyruk yağı, soğan, maydanoz, pul biber, ekmek",
+    "imageUrl": "https://images.pexels.com/photos/5639374/pexels-photo-5639374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1079",
+    "name": "Kuzu Tandır",
+    "description": "Saatlerce pişip dağılan, fırın/tandır kuzu eti.",
+    "ingredients": "Kuzu eti, tuz, karabiber, kekik, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/36934936/pexels-photo-36934936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1080",
+    "name": "Lahmacun",
+    "description": "İnce hamur üzerinde kıymalı harçla pişen, limonla dürülen lezzet.",
+    "ingredients": "İnce hamur, kıyma, soğan, domates, biber, maydanoz, salça",
+    "imageUrl": "https://images.pexels.com/photos/15793852/pexels-photo-15793852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1081",
+    "name": "Kıymalı Pide",
+    "description": "Kıymalı harçla doldurulup fırınlanan, kayık şeklinde pide.",
+    "ingredients": "Pide hamuru, kıyma, soğan, biber, domates, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/7813739/pexels-photo-7813739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1082",
+    "name": "Kaşarlı Pide",
+    "description": "Bol kaşarla fırınlanan, tel tel uzayan klasik pide.",
+    "ingredients": "Pide hamuru, kaşar peyniri, tereyağı, yumurta",
+    "imageUrl": "https://images.pexels.com/photos/7813733/pexels-photo-7813733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1083",
+    "name": "Kuşbaşılı Pide",
+    "description": "Marine kuşbaşı et ve biberle doldurulan doyurucu pide.",
+    "ingredients": "Pide hamuru, kuşbaşı et, biber, domates, soğan, baharat",
+    "imageUrl": "https://images.pexels.com/photos/5639381/pexels-photo-5639381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1084",
+    "name": "Sucuklu Pide",
+    "description": "Sucuk ve kaşarla fırınlanan, kahvaltıya da yakışan pide.",
+    "ingredients": "Pide hamuru, sucuk, kaşar peyniri, yumurta, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/7813737/pexels-photo-7813737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1085",
+    "name": "Kayseri Mantısı",
+    "description": "Minik kıymalı hamurlar; sarımsaklı yoğurt ve naneli yağla.",
+    "ingredients": "Hamur, kıyma, soğan, yoğurt, sarımsak, tereyağı, nane, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/37206708/pexels-photo-37206708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1086",
+    "name": "Erişte",
+    "description": "Ev yapımı kesme hamurla, tereyağlı ve cevizli geleneksel makarna.",
+    "ingredients": "Erişte, tereyağı, ceviz, kaşar, tuz",
+    "imageUrl": "https://images.pexels.com/photos/4748542/pexels-photo-4748542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1087",
+    "name": "Su Böreği",
+    "description": "Haşlanmış yufkalarla, peynirli ve tereyağlı kat kat börek.",
+    "ingredients": "Yufka, beyaz peynir, maydanoz, süt, yumurta, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/37142275/pexels-photo-37142275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1088",
+    "name": "Sigara Böreği",
+    "description": "Peynirli harçla sarılıp kızartılan, çıtır ince börek.",
+    "ingredients": "Yufka, beyaz peynir, maydanoz, ayçiçek yağı",
+    "imageUrl": "https://images.pexels.com/photos/4001867/pexels-photo-4001867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1089",
+    "name": "Kol Böreği",
+    "description": "Rulo şeklinde sarılıp fırınlanan, peynirli yumuşak börek.",
+    "ingredients": "Yufka, beyaz peynir, maydanoz, süt, yumurta, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/37603417/pexels-photo-37603417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1090",
+    "name": "Gözleme",
+    "description": "İnce açılan hamurun sacda pişen, peynirli veya patatesli hali.",
+    "ingredients": "Hamur, beyaz peynir, maydanoz, patates, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/35386137/pexels-photo-35386137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1091",
+    "name": "Poğaça",
+    "description": "Yumuşacık hamurlu, peynir veya zeytinle dolu fırın çöreği.",
+    "ingredients": "Un, süt, yağ, yumurta, maya, beyaz peynir",
+    "imageUrl": "https://images.pexels.com/photos/28219385/pexels-photo-28219385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1092",
+    "name": "Karadeniz Pide",
+    "description": "Bol tereyağı, kaşar ve yumurtayla pişen ünlü Karadeniz pidesi.",
+    "ingredients": "Pide hamuru, kaşar peyniri, tereyağı, yumurta",
+    "imageUrl": "https://images.pexels.com/photos/37290076/pexels-photo-37290076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1093",
+    "name": "Yumurtalı Pide",
+    "description": "Üzerine yumurta kırılıp fırınlanan, kahvaltılık pide.",
+    "ingredients": "Pide hamuru, yumurta, kaşar, tereyağı, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/30168763/pexels-photo-30168763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1094",
+    "name": "Ispanaklı Pide",
+    "description": "Ispanak ve peynirle doldurulan, hafif ve besleyici pide.",
+    "ingredients": "Pide hamuru, ıspanak, beyaz peynir, soğan, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/7813731/pexels-photo-7813731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1095",
+    "name": "Talaş Böreği",
+    "description": "Çıtır milföy içinde kuşbaşı et harcıyla fırın böreği.",
+    "ingredients": "Milföy hamuru, kuşbaşı et, soğan, bezelye, havuç, yumurta",
+    "imageUrl": "https://images.pexels.com/photos/4408551/pexels-photo-4408551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1096",
+    "name": "Açma",
+    "description": "Yumuşacık, hafif tatlımsı; çaya en yakışan fırın hamur işi.",
+    "ingredients": "Un, süt, yağ, şeker, maya, yumurta, susam",
+    "imageUrl": "https://images.pexels.com/photos/14478395/pexels-photo-14478395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1097",
+    "name": "Tavuklu Pilav",
+    "description": "Tane tane pirinç üzerinde didilmiş tavukla, doyurucu klasik.",
+    "ingredients": "Pirinç, tavuk, tereyağı, tavuk suyu, karabiber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/1633668/pexels-photo-1633668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1098",
+    "name": "Etli Pilav",
+    "description": "Kuşbaşı etle pişen, tereyağı kokulu nefis pilav.",
+    "ingredients": "Pirinç, kuşbaşı et, soğan, tereyağı, et suyu, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/14286683/pexels-photo-14286683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1099",
+    "name": "İç Pilav",
+    "description": "Kuş üzümü, fıstık ve baharatlarla zenginleşen şehzade pilavı.",
+    "ingredients": "Pirinç, dolmalık fıstık, kuş üzümü, soğan, tereyağı, tarçın, yenibahar",
+    "imageUrl": "https://images.pexels.com/photos/8250738/pexels-photo-8250738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1100",
+    "name": "Bulgur Pilavı",
+    "description": "Domates ve biberle pişen, besleyici ve sevilen bulgur pilavı.",
+    "ingredients": "Bulgur, soğan, domates, biber, salça, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/8973165/pexels-photo-8973165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1101",
+    "name": "Nohutlu Pilav",
+    "description": "Nohutla pişen, sokakta da sevilen tereyağlı pirinç pilavı.",
+    "ingredients": "Pirinç, nohut, tereyağı, tavuk suyu, karabiber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/14518996/pexels-photo-14518996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1102",
+    "name": "Domatesli Pilav",
+    "description": "Domatesle pişen, hafif ve renkli pratik pilav.",
+    "ingredients": "Pirinç, domates, salça, tereyağı, su, tuz",
+    "imageUrl": "https://images.pexels.com/photos/32825913/pexels-photo-32825913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Vegan"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1103",
+    "name": "Patlıcanlı Pilav",
+    "description": "Kavrulmuş patlıcanlarla harmanlanan aromatik pilav.",
+    "ingredients": "Pirinç, patlıcan, soğan, domates, zeytinyağı, baharat",
+    "imageUrl": "https://images.pexels.com/photos/32825915/pexels-photo-32825915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1104",
+    "name": "Sebzeli Pilav",
+    "description": "Havuç, bezelye ve mısırla renklenen hafif sebzeli pilav.",
+    "ingredients": "Pirinç, havuç, bezelye, mısır, tereyağı, su, tuz",
+    "imageUrl": "https://images.pexels.com/photos/7593267/pexels-photo-7593267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1105",
+    "name": "Menemen",
+    "description": "Domates ve biberle pişen, yumuşacık yumurtalı kahvaltı klasiği.",
+    "ingredients": "Yumurta, domates, yeşil biber, soğan, zeytinyağı, pul biber, tuz",
+    "imageUrl": "https://images.pexels.com/photos/3904924/pexels-photo-3904924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1106",
+    "name": "Sucuklu Yumurta",
+    "description": "Kızarmış sucuk üzerine kırılan yumurtayla doyurucu kahvaltı.",
+    "ingredients": "Sucuk, yumurta, tereyağı, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/36617232/pexels-photo-36617232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1107",
+    "name": "Serpme Kahvaltı",
+    "description": "Peynir, zeytin, bal-kaymak ve sıcaklarla zengin Türk kahvaltısı.",
+    "ingredients": "Beyaz peynir, kaşar, zeytin, bal, kaymak, domates, salatalık, ekmek, çay",
+    "imageUrl": "https://images.pexels.com/photos/36630848/pexels-photo-36630848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "1108",
+    "name": "Çılbır",
+    "description": "Sarımsaklı yoğurt üzerinde poşe yumurta ve naneli tereyağı.",
+    "ingredients": "Yumurta, yoğurt, sarımsak, tereyağı, pul biber, sirke",
+    "imageUrl": "https://images.pexels.com/photos/32134455/pexels-photo-32134455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1109",
+    "name": "Pişi",
+    "description": "Kabarık, çıtır kızarmış; kahvaltıların vazgeçilmez hamuru.",
+    "ingredients": "Un, su, maya, tuz, ayçiçek yağı",
+    "imageUrl": "https://images.pexels.com/photos/6676014/pexels-photo-6676014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1110",
+    "name": "Bazlama",
+    "description": "Sacda pişen, yumuşacık ve sıcak servis edilen köy ekmeği.",
+    "ingredients": "Un, yoğurt, maya, su, tuz",
+    "imageUrl": "https://images.pexels.com/photos/6183640/pexels-photo-6183640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1111",
+    "name": "Simit ve Peynir",
+    "description": "Susamlı taze simit yanında beyaz peynir ve çayla klasik sabah.",
+    "ingredients": "Simit, beyaz peynir, domates, salatalık, zeytin, çay",
+    "imageUrl": "https://images.pexels.com/photos/28219387/pexels-photo-28219387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1112",
+    "name": "Bal Kaymak",
+    "description": "Taze ekmekle, yöresel kaymak ve süzme balın muhteşem uyumu.",
+    "ingredients": "Kaymak, bal, taze ekmek",
+    "imageUrl": "https://images.pexels.com/photos/36605452/pexels-photo-36605452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1113",
+    "name": "Mıhlama",
+    "description": "Mısır unu, tereyağı ve peynirle yapılan, tel tel uzayan Karadeniz lezzeti.",
+    "ingredients": "Mısır unu, tereyağı, taze kaşar, su, tuz",
+    "imageUrl": "https://images.pexels.com/photos/37206731/pexels-photo-37206731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1114",
+    "name": "Sahanda Yumurta",
+    "description": "Tereyağında pişen, ekmek banılası klasik sahan yumurta.",
+    "ingredients": "Yumurta, tereyağı, tuz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/12961893/pexels-photo-12961893.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1115",
+    "name": "Katmer",
+    "description": "Kaymak ve fıstıkla katlanan, ince çıtır tatlı hamur işi.",
+    "ingredients": "İnce hamur, kaymak, Antep fıstığı, şeker, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/8029187/pexels-photo-8029187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1116",
+    "name": "Peynirli Omlet",
+    "description": "Kaşar peyniriyle yapılan, kabarık ve pratik kahvaltı omleti.",
+    "ingredients": "Yumurta, kaşar peyniri, tereyağı, maydanoz, tuz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/23996321/pexels-photo-23996321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1117",
+    "name": "Sosisli Yumurta",
+    "description": "Kızarmış sosis dilimleriyle yapılan doyurucu yumurta.",
+    "ingredients": "Sosis, yumurta, tereyağı, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/37279433/pexels-photo-37279433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Meat"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1118",
+    "name": "Kokoreç",
+    "description": "Baharatlı, ince kıyılıp ekmek arası servis edilen ızgara kokoreç.",
+    "ingredients": "Kuzu bağırsağı, kekik, kimyon, pul biber, domates, biber, ekmek",
+    "imageUrl": "https://images.pexels.com/photos/37229056/pexels-photo-37229056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1119",
+    "name": "Midye Dolma",
+    "description": "Baharatlı iç pilavla doldurulmuş, limon sıkılarak yenen midye.",
+    "ingredients": "Midye, pirinç, soğan, kuş üzümü, fıstık, baharat, limon",
+    "imageUrl": "https://images.pexels.com/photos/6397652/pexels-photo-6397652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Seafood"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1120",
+    "name": "Balık Ekmek",
+    "description": "Izgara balık, soğan ve marulla ekmek arası deniz lezzeti.",
+    "ingredients": "Uskumru/istavrit, ekmek, soğan, marul, limon, tuz",
+    "imageUrl": "https://images.pexels.com/photos/27598754/pexels-photo-27598754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Seafood"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1121",
+    "name": "Kumpir",
+    "description": "Kocaman fırın patates; tereyağı, kaşar ve istediğin tüm soslarla.",
+    "ingredients": "Patates, kaşar, tereyağı, mısır, zeytin, mayonez, ketçap, turşu",
+    "imageUrl": "https://images.pexels.com/photos/14979839/pexels-photo-14979839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1122",
+    "name": "Tantuni",
+    "description": "İnce kıyılmış etin baharatla kavrulup dürüldüğü Mersin lezzeti.",
+    "ingredients": "Dana eti, lavaş, soğan, domates, maydanoz, sumak, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/14774691/pexels-photo-14774691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1123",
+    "name": "Çiğ Köfte",
+    "description": "Etsiz, bol baharatlı bulgur köftesi; marul ve limonla dürüm.",
+    "ingredients": "İnce bulgur, salça, isot, soğan, sarımsak, maydanoz, nar ekşisi, marul",
+    "imageUrl": "https://images.pexels.com/photos/9399948/pexels-photo-9399948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Fast Food"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1124",
+    "name": "Islak Hamburger",
+    "description": "Domates-sarımsak sosunda bekleyen, yumuşacık buharlı hamburger.",
+    "ingredients": "Hamburger köftesi, yumuşak ekmek, domates sosu, sarımsak, baharat",
+    "imageUrl": "https://images.pexels.com/photos/28496640/pexels-photo-28496640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1125",
+    "name": "Döner Dürüm",
+    "description": "İnce lavaşa sarılı döner; domates, soğan ve baharatla.",
+    "ingredients": "Döner eti, lavaş, domates, soğan, maydanoz, sumak",
+    "imageUrl": "https://images.pexels.com/photos/36750272/pexels-photo-36750272.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1126",
+    "name": "Tavuk Dürüm",
+    "description": "Marine tavuk, sebzeler ve sosla sarılan pratik dürüm.",
+    "ingredients": "Tavuk, lavaş, marul, domates, soğan, sarımsak sosu",
+    "imageUrl": "https://images.pexels.com/photos/37322775/pexels-photo-37322775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1127",
+    "name": "Et Dürüm",
+    "description": "Izgara et parçalarıyla, közlenmiş sebzeli dolgun dürüm.",
+    "ingredients": "Dana eti, lavaş, közlenmiş biber, domates, soğan, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/36750264/pexels-photo-36750264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1128",
+    "name": "Pilav Üstü Kuru",
+    "description": "Tereyağlı pilavın üzerinde kuru fasulyeyle, esnaf lokantası klasiği.",
+    "ingredients": "Pirinç, kuru fasulye, soğan, salça, tereyağı, turşu",
+    "imageUrl": "https://images.pexels.com/photos/19781602/pexels-photo-19781602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Vegan"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1129",
+    "name": "Kaşarlı Tost",
+    "description": "Bol kaşarla preslenen, dışı çıtır içi eriyen klasik tost.",
+    "ingredients": "Tost ekmeği, kaşar peyniri, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/37142290/pexels-photo-37142290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Fast Food",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1130",
+    "name": "Sucuklu Tost",
+    "description": "Sucuk ve kaşarla preslenen, doyurucu ve sevilen tost.",
+    "ingredients": "Tost ekmeği, sucuk, kaşar peyniri, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/25819522/pexels-photo-25819522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1131",
+    "name": "Kumru",
+    "description": "Sucuk, sosis ve kaşarla doldurulan İzmir'in meşhur sandviçi.",
+    "ingredients": "Kumru ekmeği, sucuk, sosis, kaşar, domates, turşu",
+    "imageUrl": "https://images.pexels.com/photos/2335690/pexels-photo-2335690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1132",
+    "name": "Hamsi Tava",
+    "description": "Mısır ununa bulanıp kızartılan, Karadeniz'in baş tacı hamsi.",
+    "ingredients": "Hamsi, mısır unu, tuz, ayçiçek yağı, limon",
+    "imageUrl": "https://images.pexels.com/photos/29060395/pexels-photo-29060395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Dinner"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1133",
+    "name": "Levrek Izgara",
+    "description": "Limon ve zeytinyağıyla ızgarada pişen, hafif beyaz et balık.",
+    "ingredients": "Levrek, zeytinyağı, limon, sarımsak, kekik, tuz",
+    "imageUrl": "https://images.pexels.com/photos/12932683/pexels-photo-12932683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Healthy",
+      "Gluten-Free",
+      "Dinner"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1134",
+    "name": "Çupra Izgara",
+    "description": "Közde pişen, etli ve lezzetli klasik ızgara çupra.",
+    "ingredients": "Çupra, zeytinyağı, limon, kekik, tuz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/17598316/pexels-photo-17598316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Healthy",
+      "Gluten-Free",
+      "Dinner"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1135",
+    "name": "Kalamar Tava",
+    "description": "Çıtır çıtır kızarmış, tartar sosla servis edilen kalamar.",
+    "ingredients": "Kalamar, un, mısır nişastası, soda, tuz, limon, tartar sos",
+    "imageUrl": "https://images.pexels.com/photos/17321002/pexels-photo-17321002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Fast Food"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1136",
+    "name": "Midye Tava",
+    "description": "Şişe dizilip kızartılan, taratorla yenen çıtır midye.",
+    "ingredients": "Midye, un, mısır nişastası, soda, tarator, limon",
+    "imageUrl": "https://images.pexels.com/photos/12173349/pexels-photo-12173349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Fast Food"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1137",
+    "name": "Karides Güveç",
+    "description": "Domates ve kaşarla, kiremitte fokurdayan karides güveç.",
+    "ingredients": "Karides, mantar, domates, biber, sarımsak, kaşar, tereyağı",
+    "imageUrl": "https://images.pexels.com/photos/36734943/pexels-photo-36734943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Dinner"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1138",
+    "name": "Alabalık",
+    "description": "Tereyağında veya ızgarada pişen, narin etli tatlısu balığı.",
+    "ingredients": "Alabalık, tereyağı, limon, kekik, tuz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/28446446/pexels-photo-28446446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Healthy",
+      "Gluten-Free",
+      "Dinner"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1139",
+    "name": "Palamut Izgara",
+    "description": "Sonbaharın yağlı, lezzetli balığı; ızgarada limonla.",
+    "ingredients": "Palamut, zeytinyağı, limon, soğan, tuz",
+    "imageUrl": "https://images.pexels.com/photos/8963384/pexels-photo-8963384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Healthy",
+      "Gluten-Free",
+      "Dinner"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1140",
+    "name": "Sardalya Tava",
+    "description": "Çıtır kızartılan, küçük ama lezzet dolu sardalya.",
+    "ingredients": "Sardalya, un, tuz, ayçiçek yağı, limon",
+    "imageUrl": "https://images.pexels.com/photos/29060395/pexels-photo-29060395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Dinner"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1141",
+    "name": "Karides Tava",
+    "description": "Sarımsak ve tereyağıyla sotelenen sulu, aromatik karides.",
+    "ingredients": "Karides, tereyağı, sarımsak, limon, maydanoz, pul biber",
+    "imageUrl": "https://images.pexels.com/photos/8633745/pexels-photo-8633745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Dinner"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1142",
+    "name": "Balık Buğulama",
+    "description": "Sebzelerle, kendi suyunda hafifçe pişen sağlıklı balık.",
+    "ingredients": "Beyaz et balık, domates, biber, soğan, sarımsak, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/27294734/pexels-photo-27294734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Healthy",
+      "Dinner"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1143",
+    "name": "Lüfer Izgara",
+    "description": "Boğaz'ın gözde balığı; közde, limonla servis edilir.",
+    "ingredients": "Lüfer, zeytinyağı, limon, tuz, roka",
+    "imageUrl": "https://images.pexels.com/photos/28446446/pexels-photo-28446446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Seafood",
+      "Healthy",
+      "Gluten-Free",
+      "Dinner"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1144",
+    "name": "Çoban Salatası",
+    "description": "Domates, salatalık ve biberle, her sofranın ferah salatası.",
+    "ingredients": "Domates, salatalık, yeşil biber, soğan, maydanoz, zeytinyağı, limon",
+    "imageUrl": "https://images.pexels.com/photos/16723273/pexels-photo-16723273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1145",
+    "name": "Gavurdağı Salatası",
+    "description": "İri doğranmış sebzeler ve cevizle, nar ekşili Antep salatası.",
+    "ingredients": "Domates, soğan, biber, ceviz, maydanoz, nar ekşisi, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/8996059/pexels-photo-8996059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1146",
+    "name": "Haydari",
+    "description": "Süzme yoğurt, sarımsak ve naneyle kıvamlı meze.",
+    "ingredients": "Süzme yoğurt, sarımsak, nane, dereotu, zeytinyağı, ceviz",
+    "imageUrl": "https://images.pexels.com/photos/5191827/pexels-photo-5191827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1147",
+    "name": "Acılı Ezme",
+    "description": "İnce doğranmış sebzeler ve isotla, acı sevenlerin mezesi.",
+    "ingredients": "Domates, biber, soğan, isot, maydanoz, nar ekşisi, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/14909278/pexels-photo-14909278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1148",
+    "name": "Patlıcan Salatası",
+    "description": "Közlenmiş patlıcanla, yoğurtlu veya zeytinyağlı klasik meze.",
+    "ingredients": "Patlıcan, sarımsak, yoğurt, zeytinyağı, limon, tuz",
+    "imageUrl": "https://images.pexels.com/photos/36879175/pexels-photo-36879175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1149",
+    "name": "Piyaz",
+    "description": "Haşlanmış fasulye, soğan ve tahin soslu Antalya usulü meze.",
+    "ingredients": "Kuru fasulye, soğan, maydanoz, tahin, sirke, limon, yumurta",
+    "imageUrl": "https://images.pexels.com/photos/5191842/pexels-photo-5191842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1150",
+    "name": "Kısır",
+    "description": "İnce bulgur, salça ve yeşilliklerle hazırlanan klasik bulgur salatası.",
+    "ingredients": "İnce bulgur, salça, soğan, maydanoz, nar ekşisi, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/7624858/pexels-photo-7624858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1151",
+    "name": "Humus",
+    "description": "Nohut ve tahinle, sarımsaklı kremamsı Ortadoğu mezesi.",
+    "ingredients": "Nohut, tahin, sarımsak, limon, zeytinyağı, kimyon",
+    "imageUrl": "https://images.pexels.com/photos/6419391/pexels-photo-6419391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1152",
+    "name": "Şakşuka",
+    "description": "Kızarmış patlıcan, kabak ve biberle domates soslu meze.",
+    "ingredients": "Patlıcan, kabak, biber, domates, sarımsak, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/5112637/pexels-photo-5112637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1153",
+    "name": "Cacık",
+    "description": "Yoğurt, salatalık ve naneyle ferahlatan yaz mezesi.",
+    "ingredients": "Yoğurt, salatalık, sarımsak, nane, dereotu, zeytinyağı, su",
+    "imageUrl": "https://images.pexels.com/photos/15108370/pexels-photo-15108370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegetarian",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1154",
+    "name": "Fava",
+    "description": "Bakla ezmesinden, dereotlu ve limonlu serinletici meze.",
+    "ingredients": "Bakla, soğan, dereotu, limon, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/15813485/pexels-photo-15813485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1155",
+    "name": "Babagannuş",
+    "description": "Közlenmiş patlıcan ve tahinle, dumanlı aromalı meze.",
+    "ingredients": "Patlıcan, tahin, sarımsak, limon, zeytinyağı, kimyon",
+    "imageUrl": "https://images.pexels.com/photos/4768983/pexels-photo-4768983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1156",
+    "name": "Semizotu Salatası",
+    "description": "Yoğurtlu ve sarımsaklı, sağlıklı semizotu salatası.",
+    "ingredients": "Semizotu, yoğurt, sarımsak, zeytinyağı, limon, tuz",
+    "imageUrl": "https://images.pexels.com/photos/27400762/pexels-photo-27400762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegetarian",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1157",
+    "name": "Roka Salatası",
+    "description": "Taze roka, domates ve limonla sade ve ferah salata.",
+    "ingredients": "Roka, çeri domates, limon, zeytinyağı, parmesan, tuz",
+    "imageUrl": "https://images.pexels.com/photos/5272093/pexels-photo-5272093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1158",
+    "name": "İçli Köfte",
+    "description": "İnce bulgur kabuk içinde kıymalı harçla, çıtır kızartma köfte.",
+    "ingredients": "İnce bulgur, kıyma, soğan, ceviz, maydanoz, baharat",
+    "imageUrl": "https://images.pexels.com/photos/37028517/pexels-photo-37028517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Meat",
+      "Lunch"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1159",
+    "name": "Közlenmiş Patlıcan",
+    "description": "Ateşte közlenip sarımsaklı yoğurtla servis edilen patlıcan.",
+    "ingredients": "Patlıcan, sarımsak, yoğurt, zeytinyağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/14909391/pexels-photo-14909391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1160",
+    "name": "Turşu",
+    "description": "Mevsim sebzelerinden, ekşi ve çıtır geleneksel turşu tabağı.",
+    "ingredients": "Salatalık, lahana, biber, havuç, sarımsak, sirke, tuz",
+    "imageUrl": "https://images.pexels.com/photos/15108398/pexels-photo-15108398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "1161",
+    "name": "Baklava",
+    "description": "Kat kat yufka, Antep fıstığı ve şerbetle Türk tatlısının kralı.",
+    "ingredients": "Yufka, Antep fıstığı, tereyağı, şeker, su, limon",
+    "imageUrl": "https://images.pexels.com/photos/5323489/pexels-photo-5323489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "1162",
+    "name": "Künefe",
+    "description": "Kadayıf arasında erimiş peynir, şerbet ve fıstıkla sıcak tatlı.",
+    "ingredients": "Tel kadayıf, peynir, tereyağı, şeker, Antep fıstığı",
+    "imageUrl": "https://images.pexels.com/photos/16557600/pexels-photo-16557600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "1163",
+    "name": "Sütlaç",
+    "description": "Fırında üzeri kızarmış, kremamsı geleneksel sütlü pirinç tatlısı.",
+    "ingredients": "Süt, pirinç, şeker, pirinç unu, vanilya",
+    "imageUrl": "https://images.pexels.com/photos/30403819/pexels-photo-30403819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1164",
+    "name": "Kazandibi",
+    "description": "Dibi kahverengileşmiş, kıvamlı ve hafif yanık aromalı süt tatlısı.",
+    "ingredients": "Süt, şeker, pirinç unu, nişasta, tavuk göğsü, vanilya",
+    "imageUrl": "https://images.pexels.com/photos/7140279/pexels-photo-7140279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1165",
+    "name": "Revani",
+    "description": "İrmikli, şerbetli ve yumuşacık geleneksel kek tatlısı.",
+    "ingredients": "İrmik, un, yumurta, yoğurt, şeker, limon, su",
+    "imageUrl": "https://images.pexels.com/photos/29012092/pexels-photo-29012092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1166",
+    "name": "Şekerpare",
+    "description": "Ağızda dağılan, şerbetli ve üzeri bademli irmikli kurabiye.",
+    "ingredients": "İrmik, un, tereyağı, yumurta, şeker, badem, limon",
+    "imageUrl": "https://images.pexels.com/photos/7803115/pexels-photo-7803115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1167",
+    "name": "Lokma",
+    "description": "Çıtır kızarmış hamur toplarının şerbete batırılmış hali.",
+    "ingredients": "Un, maya, su, şeker, su, limon, ayçiçek yağı",
+    "imageUrl": "https://images.pexels.com/photos/16119658/pexels-photo-16119658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1168",
+    "name": "Tulumba",
+    "description": "Dışı çıtır, içi şerbetli; tırtıklı geleneksel hamur tatlısı.",
+    "ingredients": "Un, irmik, yumurta, nişasta, şeker, su, limon, yağ",
+    "imageUrl": "https://images.pexels.com/photos/5939294/pexels-photo-5939294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1169",
+    "name": "Aşure",
+    "description": "Tahıl, kuru meyve ve baklagillerle yapılan bereket tatlısı.",
+    "ingredients": "Buğday, nohut, fasulye, kuru incir, kayısı, ceviz, nar, şeker",
+    "imageUrl": "https://images.pexels.com/photos/32963317/pexels-photo-32963317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1170",
+    "name": "Kabak Tatlısı",
+    "description": "Şekerde pişen balkabağı; ceviz ve tahinle servis edilir.",
+    "ingredients": "Balkabağı, şeker, ceviz, tahin, karanfil",
+    "imageUrl": "https://images.pexels.com/photos/35254698/pexels-photo-35254698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1171",
+    "name": "İrmik Helvası",
+    "description": "Kavrulmuş irmik ve çam fıstığıyla, sıcak servis edilen helva.",
+    "ingredients": "İrmik, tereyağı, çam fıstığı, süt, şeker",
+    "imageUrl": "https://images.pexels.com/photos/37336729/pexels-photo-37336729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1172",
+    "name": "Trileçe",
+    "description": "Üç sütle ıslatılmış, karamel soslu yumuşacık kek tatlısı.",
+    "ingredients": "Un, yumurta, süt, krema, yoğunlaştırılmış süt, şeker, karamel",
+    "imageUrl": "https://images.pexels.com/photos/32551700/pexels-photo-32551700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1173",
+    "name": "Magnolia",
+    "description": "Bisküvi ve muzla katlanan, kremalı soğuk kase tatlısı.",
+    "ingredients": "Süt, krema, muz, bisküvi, şeker, vanilya, nişasta",
+    "imageUrl": "https://images.pexels.com/photos/15415231/pexels-photo-15415231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1174",
+    "name": "Tavukgöğsü",
+    "description": "İncecik tavuk lifleriyle yapılan, kendine has süt tatlısı.",
+    "ingredients": "Süt, tavuk göğsü, şeker, pirinç unu, nişasta, tarçın",
+    "imageUrl": "https://images.pexels.com/photos/10893998/pexels-photo-10893998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1175",
+    "name": "Güllaç",
+    "description": "Gül suyu ve cevizle, hafif ve narin Ramazan tatlısı.",
+    "ingredients": "Güllaç yaprağı, süt, şeker, ceviz, gül suyu, nar",
+    "imageUrl": "https://images.pexels.com/photos/5940112/pexels-photo-5940112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1176",
+    "name": "Un Helvası",
+    "description": "Kavrulmuş un ve şerbetiyle, geleneksel sıcak helva.",
+    "ingredients": "Un, tereyağı, çam fıstığı, süt, şeker",
+    "imageUrl": "https://images.pexels.com/photos/10395259/pexels-photo-10395259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1177",
+    "name": "Ayva Tatlısı",
+    "description": "Şekerde kıpkırmızı pişen ayva; kaymak veya cevizle.",
+    "ingredients": "Ayva, şeker, karanfil, su, ceviz",
+    "imageUrl": "https://images.pexels.com/photos/20377560/pexels-photo-20377560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1178",
+    "name": "Maraş Dondurması",
+    "description": "Salep ve keçi sütüyle, kesilip yenen yoğun kıvamlı dondurma.",
+    "ingredients": "Süt, salep, şeker, sakız",
+    "imageUrl": "https://images.pexels.com/photos/36576778/pexels-photo-36576778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1179",
+    "name": "Supangle",
+    "description": "Bisküvili tabanı olan, yoğun çikolatalı soğuk tatlı.",
+    "ingredients": "Süt, çikolata, kakao, un, nişasta, şeker, bisküvi",
+    "imageUrl": "https://images.pexels.com/photos/10303334/pexels-photo-10303334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1180",
+    "name": "Şöbiyet",
+    "description": "Kaymak dolgulu, fıstıklı ve şerbetli üçgen baklava çeşidi.",
+    "ingredients": "Yufka, kaymak, Antep fıstığı, tereyağı, şeker, su",
+    "imageUrl": "https://images.pexels.com/photos/18543475/pexels-photo-18543475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1181",
+    "name": "Cezerye",
+    "description": "Havuç, ceviz ve hindistan cevizinin yoğun, sakızsı tatlısı.",
+    "ingredients": "Havuç, şeker, ceviz, fıstık, hindistan cevizi",
+    "imageUrl": "https://images.pexels.com/photos/34681070/pexels-photo-34681070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1182",
+    "name": "Lokum",
+    "description": "Gül, fıstık veya nar aromalı, pudra şekerli yumuşak Türk lokumu.",
+    "ingredients": "Şeker, nişasta, su, gül suyu, Antep fıstığı, pudra şekeri",
+    "imageUrl": "https://images.pexels.com/photos/10112132/pexels-photo-10112132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegan"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1183",
+    "name": "Margherita Pizza",
+    "description": "Domates, mozzarella ve fesleğenle sade ve klasik İtalyan pizzası.",
+    "ingredients": "Pizza hamuru, domates sosu, mozzarella, fesleğen, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/31596394/pexels-photo-31596394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1184",
+    "name": "Sucuklu Pizza",
+    "description": "Bol sucuk ve kaşarla, Türkiye'nin en sevilen pizzası.",
+    "ingredients": "Pizza hamuru, domates sosu, kaşar, sucuk, biber",
+    "imageUrl": "https://images.pexels.com/photos/12932955/pexels-photo-12932955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1185",
+    "name": "Karışık Pizza",
+    "description": "Sucuk, mantar, biber ve mısırla bol malzemeli pizza.",
+    "ingredients": "Pizza hamuru, domates sosu, kaşar, sucuk, mantar, biber, mısır",
+    "imageUrl": "https://images.pexels.com/photos/7813577/pexels-photo-7813577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1186",
+    "name": "Kaşarlı Pizza",
+    "description": "Bol eriyen kaşarla sade ve çocukların favorisi pizza.",
+    "ingredients": "Pizza hamuru, domates sosu, kaşar, kekik",
+    "imageUrl": "https://images.pexels.com/photos/27582710/pexels-photo-27582710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1187",
+    "name": "Mantarlı Pizza",
+    "description": "Taze mantar ve kaşarla, hafif ve lezzetli pizza.",
+    "ingredients": "Pizza hamuru, domates sosu, mozzarella, mantar, kekik",
+    "imageUrl": "https://images.pexels.com/photos/7813570/pexels-photo-7813570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1188",
+    "name": "Pepperoni Pizza",
+    "description": "Baharatlı dana pepperoni dilimleriyle, klasik Amerikan pizzası.",
+    "ingredients": "Pizza hamuru, domates sosu, mozzarella, dana pepperoni",
+    "imageUrl": "https://images.pexels.com/photos/37417637/pexels-photo-37417637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1189",
+    "name": "Tavuklu Pizza",
+    "description": "Marine tavuk parçaları, mantar ve mısırla doyurucu pizza.",
+    "ingredients": "Pizza hamuru, domates sosu, mozzarella, tavuk, mantar, mısır",
+    "imageUrl": "https://images.pexels.com/photos/20115307/pexels-photo-20115307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1190",
+    "name": "Spagetti Bolonez",
+    "description": "Kıymalı domates sosuyla, klasik ve doyurucu İtalyan makarnası.",
+    "ingredients": "Spagetti, kıyma, domates, soğan, sarımsak, salça, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/21517328/pexels-photo-21517328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1191",
+    "name": "Penne Arrabiata",
+    "description": "Acılı domates sosuyla, sade ve iddialı makarna.",
+    "ingredients": "Penne, domates, sarımsak, acı biber, zeytinyağı, fesleğen",
+    "imageUrl": "https://images.pexels.com/photos/5807020/pexels-photo-5807020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegan"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1192",
+    "name": "Fettuccine Alfredo",
+    "description": "Tereyağı, krema ve parmesanla kremamsı beyaz soslu makarna.",
+    "ingredients": "Fettuccine, krema, tereyağı, parmesan, sarımsak, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/28762003/pexels-photo-28762003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1193",
+    "name": "Tavuklu Makarna",
+    "description": "Kremalı sos ve tavuk parçalarıyla, sevilen ev makarnası.",
+    "ingredients": "Makarna, tavuk, krema, mantar, sarımsak, kaşar, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/20234575/pexels-photo-20234575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1194",
+    "name": "Kremalı Mantarlı Makarna",
+    "description": "Sotelenmiş mantar ve kremayla, aromatik ve doyurucu makarna.",
+    "ingredients": "Makarna, mantar, krema, sarımsak, parmesan, maydanoz",
+    "imageUrl": "https://images.pexels.com/photos/14930718/pexels-photo-14930718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1195",
+    "name": "Fırın Makarna",
+    "description": "Beşamel ve kaşarla fırınlanan, üzeri çıtır makarna.",
+    "ingredients": "Makarna, süt, un, tereyağı, kaşar, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/4378160/pexels-photo-4378160.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1196",
+    "name": "Pesto Soslu Makarna",
+    "description": "Fesleğen, fıstık ve parmesanlı pesto sosuyla taze makarna.",
+    "ingredients": "Makarna, fesleğen, çam fıstığı, parmesan, sarımsak, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/31261499/pexels-photo-31261499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1197",
+    "name": "Cheeseburger",
+    "description": "Dana köfte, eriyen cheddar ve tüm malzemeleriyle klasik burger.",
+    "ingredients": "Dana köfte, burger ekmeği, cheddar, marul, domates, turşu, soğan",
+    "imageUrl": "https://images.pexels.com/photos/19247566/pexels-photo-19247566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "1198",
+    "name": "Klasik Hamburger",
+    "description": "Sade ama doyurucu; sulu köfte ve taze malzemeli burger.",
+    "ingredients": "Dana köfte, burger ekmeği, marul, domates, soğan, sos",
+    "imageUrl": "https://images.pexels.com/photos/3228803/pexels-photo-3228803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1199",
+    "name": "Tavuk Burger",
+    "description": "Çıtır veya ızgara tavukla, hafif ve lezzetli burger.",
+    "ingredients": "Tavuk göğsü, burger ekmeği, marul, domates, mayonez",
+    "imageUrl": "https://images.pexels.com/photos/12653335/pexels-photo-12653335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1200",
+    "name": "Double Burger",
+    "description": "Çift köfte ve çift cheddarla, iddialı ve doyurucu burger.",
+    "ingredients": "İki dana köfte, burger ekmeği, cheddar, marul, domates, soğan, sos",
+    "imageUrl": "https://images.pexels.com/photos/10922925/pexels-photo-10922925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1201",
+    "name": "BBQ Burger",
+    "description": "Barbekü sosu, çıtır soğan ve cheddarla dumanlı burger.",
+    "ingredients": "Dana köfte, burger ekmeği, cheddar, barbekü sos, çıtır soğan, marul",
+    "imageUrl": "https://images.pexels.com/photos/3826282/pexels-photo-3826282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1202",
+    "name": "Çıtır Tavuk",
+    "description": "Baharatlı galeta unuyla kaplanıp kızarmış, dışı çıtır tavuk.",
+    "ingredients": "Tavuk, un, yumurta, galeta unu, baharat, ayçiçek yağı",
+    "imageUrl": "https://images.pexels.com/photos/33068077/pexels-photo-33068077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1203",
+    "name": "Sezar Salata",
+    "description": "Izgara tavuk, kruton ve parmesanla klasik Sezar salatası.",
+    "ingredients": "Marul, tavuk, kruton, parmesan, sezar sos, limon",
+    "imageUrl": "https://images.pexels.com/photos/35532838/pexels-photo-35532838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Healthy",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1204",
+    "name": "Tavuk Nugget",
+    "description": "Çocukların favorisi; çıtır kaplamalı küçük tavuk parçaları.",
+    "ingredients": "Tavuk, un, galeta unu, baharat, ayçiçek yağı",
+    "imageUrl": "https://images.pexels.com/photos/10183543/pexels-photo-10183543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1205",
+    "name": "Patates Kızartması",
+    "description": "Altın sarısı, çıtır çıtır; yanında her şeye yakışan klasik.",
+    "ingredients": "Patates, ayçiçek yağı, tuz",
+    "imageUrl": "https://images.pexels.com/photos/18339330/pexels-photo-18339330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Vegan"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1206",
+    "name": "Club Sandwich",
+    "description": "Tavuk, dana jambon, yumurta ve marulla kat kat doyurucu sandviç.",
+    "ingredients": "Tost ekmeği, tavuk, jambon, yumurta, marul, domates, mayonez",
+    "imageUrl": "https://images.pexels.com/photos/15662232/pexels-photo-15662232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1207",
+    "name": "Ton Balıklı Salata",
+    "description": "Ton balığı, mısır ve yeşilliklerle hafif ve pratik salata.",
+    "ingredients": "Ton balığı, marul, mısır, domates, zeytin, limon, zeytinyağı",
+    "imageUrl": "https://images.pexels.com/photos/19572488/pexels-photo-19572488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Healthy",
+      "Seafood"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1208",
+    "name": "Noodle",
+    "description": "Sebzelerle wok'ta sotelenen, baharatlı Uzakdoğu eriştesi.",
+    "ingredients": "Erişte, biber, havuç, soğan, soya sosu, sarımsak, susam yağı",
+    "imageUrl": "https://images.pexels.com/photos/2456435/pexels-photo-2456435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Lunch",
+      "Dinner",
+      "Vegetarian"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1209",
+    "name": "Sushi Tabağı",
+    "description": "Taze balık, pirinç ve yosunla hazırlanan çeşitli sushi ve maki tabağı.",
+    "ingredients": "Sushi pirinci, somon, ton balığı, nori, avokado, salatalık, soya sosu, wasabi, zencefil",
+    "imageUrl": "https://images.pexels.com/photos/31393434/pexels-photo-31393434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Seafood",
+      "Healthy"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1210",
+    "name": "California Roll",
+    "description": "Avokado, yengeç ve salatalıkla sarılan, sevilen başlangıç sushi'si.",
+    "ingredients": "Sushi pirinci, nori, surimi, avokado, salatalık, susam, soya sosu",
+    "imageUrl": "https://images.pexels.com/photos/5678887/pexels-photo-5678887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Seafood"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1211",
+    "name": "Falafel",
+    "description": "Nohuttan yapılan, baharatlı ve çıtır kızarmış; dürüm ya da tabakta servis edilen vegan lezzet.",
+    "ingredients": "Nohut, soğan, sarımsak, maydanoz, kişniş, kimyon, tahin sosu, lavaş",
+    "imageUrl": "https://images.pexels.com/photos/9213971/pexels-photo-9213971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Vegan",
+      "Healthy",
+      "Fast Food"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1212",
+    "name": "Ramen",
+    "description": "Zengin et suyu, erişte, yumurta ve etle servis edilen sıcak Japon noodle çorbası.",
+    "ingredients": "Ramen eriştesi, tavuk/dana suyu, yumurta, et, taze soğan, mantar, soya sosu, susam",
+    "imageUrl": "https://images.pexels.com/photos/31264126/pexels-photo-31264126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Meat",
+      "Soup"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1213",
+    "name": "Sebzeli Ramen",
+    "description": "Sebze suyu, erişte ve bol sebzeyle hazırlanan vegan noodle çorbası.",
+    "ingredients": "Ramen eriştesi, sebze suyu, mantar, pak choy, havuç, taze soğan, soya sosu, susam yağı",
+    "imageUrl": "https://images.pexels.com/photos/37415849/pexels-photo-37415849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dinner",
+      "Vegan",
+      "Soup"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1214",
+    "name": "San Sebastian Cheesecake",
+    "description": "Üzeri yanık, içi akışkan ve kremamsı; İspanya kökenli ünlü cheesecake.",
+    "ingredients": "Krem peynir, krema, yumurta, şeker, un, vanilya",
+    "imageUrl": "https://images.pexels.com/photos/6199595/pexels-photo-6199595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1215",
+    "name": "Çikolatalı Sufle",
+    "description": "Dışı pişmiş, içinden sıcak çikolata akan; dondurmayla servis edilen tatlı.",
+    "ingredients": "Bitter çikolata, tereyağı, yumurta, şeker, un, vanilya",
+    "imageUrl": "https://images.pexels.com/photos/20377567/pexels-photo-20377567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "1216",
+    "name": "Waffle",
+    "description": "Çıtır gofret üzerinde çikolata, meyve ve soslarla hazırlanan sokak tatlısı.",
+    "ingredients": "Waffle hamuru, çikolata sosu, çilek, muz, fıstık, krema",
+    "imageUrl": "https://images.pexels.com/photos/11714571/pexels-photo-11714571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Fast Food",
+      "Vegetarian"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "1217",
+    "name": "Brownie",
+    "description": "Yoğun çikolatalı, ıslak dokulu; sıcak ve dondurmayla sevilen kek.",
+    "ingredients": "Bitter çikolata, tereyağı, yumurta, şeker, un, ceviz, kakao",
+    "imageUrl": "https://images.pexels.com/photos/15106329/pexels-photo-15106329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "1218",
+    "name": "Sosisli Sandviç",
+    "description": "Izgara sosis, ketçap ve hardalla pratik ve doyurucu hot dog.",
+    "ingredients": "Sosis, hot dog ekmeği, ketçap, hardal, turşu, soğan",
+    "imageUrl": "https://images.pexels.com/photos/24870632/pexels-photo-24870632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "1219",
+    "name": "Patso",
+    "description": "Patates kızartması ve sosisle dürülen, İzmir'in öğrenci favorisi.",
+    "ingredients": "Sandviç ekmeği, patates kızartması, sosis, ketçap, mayonez, turşu",
+    "imageUrl": "https://images.pexels.com/photos/37228369/pexels-photo-37228369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Fast Food",
+      "Meat"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "1220",
+    "name": "Yumurtalı Ekmek",
+    "description": "Yumurtaya batırılıp kızartılan ekmekle, pratik ve ekonomik atıştırmalık.",
+    "ingredients": "Ekmek, yumurta, tereyağı, tuz, karabiber",
+    "imageUrl": "https://images.pexels.com/photos/9332168/pexels-photo-9332168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "categories": [
+      "Breakfast",
+      "Vegetarian"
+    ],
+    "rating": 4.1
+  }
+]
