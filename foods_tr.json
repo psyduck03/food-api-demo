@@ -2636,12 +2636,12 @@
   {
     "id": "1213",
     "name": "Sebzeli Ramen",
-    "description": "Sebze suyu, erişte ve bol sebzeyle hazırlanan vegan noodle çorbası.",
-    "ingredients": "Ramen eriştesi, sebze suyu, mantar, pak choy, havuç, taze soğan, soya sosu, susam yağı",
+    "description": "Sebze suyu, erişte ve bol sebzeyle hazırlanan noodle çorbası.",
+    "ingredients": "Ramen eriştesi, sebze suyu, yumurta, mantar, pak choy, havuç, taze soğan, soya sosu, susam yağı",
     "imageUrl": "https://images.pexels.com/photos/37415849/pexels-photo-37415849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "categories": [
       "Dinner",
-      "Vegan",
+      "Vegetarian",
       "Soup"
     ],
     "rating": 4.2
